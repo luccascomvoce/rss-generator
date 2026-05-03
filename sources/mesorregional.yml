@@ -1,0 +1,16 @@
+id: mesorregional
+title: "Mesorregional — Notícias de Blumenau"
+description: "Notícias de Blumenau e região coletadas via Mesorregional"
+rss_url: https://www.mesorregional.com.br/search/Blumenau/feed/rss2/
+feed_output: mesorregional.xml
+type: rss
+
+# Filtro adicional opcional para garantir relevância
+filter_keywords:
+  - "Blumenau"
+  - "Vale do Itajaí"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+
+max_items: 30
