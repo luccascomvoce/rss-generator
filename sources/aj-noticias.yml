@@ -1,0 +1,52 @@
+id: aj-noticias
+title: "AJ Notícias — Blumenau"
+description: "Notícias locais filtradas por relevância para Blumenau"
+url: https://ajnoticias.com.br/ultimas-noticias
+feed_output: aj-noticias.xml
+type: scrape
+
+selectors:
+  items: "a.lista-home-4"
+  title: "h3"
+  link: "a" # O próprio item é um <a>
+  date: "div > span:nth-of-type(2)"
+  summary: "div > span:last-of-type"
+
+link_prefix: "https://ajnoticias.com.br"
+max_items: 30
+
+# Filtro ampliado para incluir políticos e bairros (checa título e resumo)
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Vale do Itajaí"
+  # Políticos comuns/ativos em Blumenau (exemplos)
+  - "Egídio Ferrari"
+  - "Mário Hildebrandt"
+  - "Napoleão Bernardes"
+  - "Ivan Naatz"
+  - "Almir Vieira"
+  - "Adriano Pereira"
+  - "Bruno Cunha"
+  - "Cristiane Loureiro"
+  - "Gilson de Souza"
+  - "Silmara Miguel"
+  - "Carlos Wagner"
+  - "Jovino Cardoso"
+  - "Ailton de Souza"
+  - "Ito de Souza"
+  - "Maurício Goll"
+  - "Diego Nasato"
+  - "Emmanuel Tuca"

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AJ Notícias — Blumenau</title>
+    <link>https://ajnoticias.com.br/ultimas-noticias</link>
+    <description>Notícias locais filtradas por relevância para Blumenau</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 03 May 2026 13:37:58 +0000</lastBuildDate>
+    <item>
+      <title>Incêndio atinge casa e mobiliza bombeiros no Alto Vale do Itajaí</title>
+      <link>https://ajnoticias.com.br/noticia/54332/incendio-atinge-casa-e-mobiliza-bombeiros-no-alto-vale-do-itajai</link>
+      <description>Chamas começaram na fiação elétrica e se espalharam pela casa.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54332/incendio-atinge-casa-e-mobiliza-bombeiros-no-alto-vale-do-itajai</guid>
+      <pubDate>Sun, 03 May 2026 13:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transporte coletivo será reforçado para jogo do Metrô neste domingo em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/54333/transporte-coletivo-sera-reforcado-para-jogo-do-metro-neste-domingo-em-blumenau</link>
+      <description>Confronto contra Hercílio Luz é válido pela 2ª rodada do Catarinense Série B.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54333/transporte-coletivo-sera-reforcado-para-jogo-do-metro-neste-domingo-em-blumenau</guid>
+      <pubDate>Sun, 03 May 2026 13:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domingo em Blumenau terá variação de nuvens, sol e chance de chuvisco</title>
+      <link>https://ajnoticias.com.br/noticia/54344/domingo-em-blumenau-tera-variacao-de-nuvens-sol-e-chance-de-chuvisco</link>
+      <description>Há condição para chuvisco isolado, especialmente em períodos intercalados.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54344/domingo-em-blumenau-tera-variacao-de-nuvens-sol-e-chance-de-chuvisco</guid>
+      <pubDate>Sun, 03 May 2026 13:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem é preso por perturbação do sossego e embriaguez ao volante em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/54346/homem-e-preso-por-perturbacao-do-sossego-e-embriaguez-ao-volante-em-blumenau</link>
+      <description>Ocorrência começou com denúncia de barulho em apartamento.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54346/homem-e-preso-por-perturbacao-do-sossego-e-embriaguez-ao-volante-em-blumenau</guid>
+      <pubDate>Sun, 03 May 2026 13:37:58 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

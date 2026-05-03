@@ -78,7 +78,20 @@ def scrape_page(cfg):
         summary_sel = sel.get("summary", "p")
 
         title_el = el.select_one(title_sel) if title_sel else None
-        link_el = el.select_one(link_sel) if link_sel else None
+        
+        # O link pode ser o próprio elemento ou um filho
+        link_el = None
+        if link_sel:
+            # Se o seletor for o próprio elemento (ex: item é um <a> e link_sel é "a")
+            if el.name == link_sel or el.has_attr('class') and any(c in link_sel for c in el['class']):
+                link_el = el
+            else:
+                link_el = el.select_one(link_sel)
+            
+            # Fallback se ainda não encontrou mas o item é um link
+            if not link_el and el.name == "a":
+                link_el = el
+        
         date_el = el.select_one(date_sel) if date_sel else None
         summary_el = el.select_one(summary_sel) if summary_sel else None
 
@@ -115,6 +128,15 @@ def scrape_page(cfg):
             "date": date_str,
             "summary": summary,
         })
+
+    # Aplica filtro por palavras-chave se configurado
+    filter_keywords = cfg.get("filter_keywords")
+    if filter_keywords:
+        kw_lower = [k.lower() for k in filter_keywords]
+        items = [
+            item for item in items
+            if any(kw in (item["title"] + " " + item["summary"]).lower() for kw in kw_lower)
+        ]
 
     return items
 
