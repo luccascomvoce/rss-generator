@@ -1,0 +1,16 @@
+id: defesa-civil-noticias
+title: "Defesa Civil SC — Notícias"
+description: "Notícias gerais da Secretaria de Estado da Proteção e Defesa Civil de Santa Catarina"
+url: https://www.defesacivil.sc.gov.br/categoria/noticia/
+feed_output: defesa-civil-noticias.xml
+type: scrape
+
+selectors:
+  items: "article.category-noticia"
+  title: "h2.entry-title a"
+  link: "h2.entry-title a"
+  date: ".posted-on time"
+  summary: ".entry-content p"
+
+link_prefix: "https://www.defesacivil.sc.gov.br"
+max_items: 30

@@ -1,0 +1,32 @@
+id: o-blumenauense
+title: "O Blumenauense — Notícias de Blumenau"
+description: "Notícias locais filtradas para focar em Blumenau e seus bairros"
+rss_url: https://oblumenauense.com.br/feed/
+feed_output: o-blumenauense.xml
+type: rss
+
+# Filtro para garantir que a notícia seja relevante para Blumenau
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
+
+max_items: 30
