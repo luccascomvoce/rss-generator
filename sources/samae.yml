@@ -1,0 +1,16 @@
+id: samae
+title: "SAMAE Blumenau — Notícias"
+description: "Notícias e alertas de serviço do SAMAE Blumenau"
+url: https://www.samae.com.br/noticias
+feed_output: samae.xml
+type: scrape
+
+selectors:
+  items: ".content_noticias li a"
+  title: "h3"
+  link: "a" # O próprio item é um <a>
+  date: "span"
+  summary: "" # Não disponível na listagem, mas o título é bem descritivo
+
+link_prefix: "https://www.samae.com.br"
+max_items: 30

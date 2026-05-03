@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>SAMAE Blumenau — Notícias</title>
+    <link>https://www.samae.com.br/noticias</link>
+    <description>Notícias e alertas de serviço do SAMAE Blumenau</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 03 May 2026 13:48:16 +0000</lastBuildDate>
+    <item>
+      <title>Samae realiza manutenção em dois pontos da cidade neste domingo, dia 19</title>
+      <link>https://www.samae.com.br/noticia/2701/samae-realiza-manutencao-em-dois-pontos-da-cidade-neste-domingo-dia-19</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2701/samae-realiza-manutencao-em-dois-pontos-da-cidade-neste-domingo-dia-19</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae conserta rompimento em rede na Rua Guilherme Scharf neste domingo, dia 19</title>
+      <link>https://www.samae.com.br/noticia/2702/samae-conserta-rompimento-em-rede-na-rua-guilherme-scharf-neste-domingo-dia-19</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2702/samae-conserta-rompimento-em-rede-na-rua-guilherme-scharf-neste-domingo-dia-19</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Com novas frentes de trabalho, obras da ETA 5 avançam</title>
+      <link>https://www.samae.com.br/noticia/2703/com-novas-frentes-de-trabalho-obras-da-eta-5-avancam</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2703/com-novas-frentes-de-trabalho-obras-da-eta-5-avancam</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae faz reparo em adutora que rompeu no bairro Velha Central nesta segunda-feira, dia 20</title>
+      <link>https://www.samae.com.br/noticia/2704/samae-faz-reparo-em-adutora-que-rompeu-no-bairro-velha-central-nesta-segunda-feira-dia-20</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2704/samae-faz-reparo-em-adutora-que-rompeu-no-bairro-velha-central-nesta-segunda-feira-dia-20</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae faz manutenção em adutora no bairro Itoupava Central nesta terça-feira, dia 21</title>
+      <link>https://www.samae.com.br/noticia/2705/samae-faz-manutencao-em-adutora-no-bairro-itoupava-central-nesta-terca-feira-dia-21</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2705/samae-faz-manutencao-em-adutora-no-bairro-itoupava-central-nesta-terca-feira-dia-21</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae recebe representantes da Emasa para troca de experiências em saneamento</title>
+      <link>https://www.samae.com.br/noticia/2706/samae-recebe-representantes-da-emasa-para-troca-de-experiencias-em-saneamento</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2706/samae-recebe-representantes-da-emasa-para-troca-de-experiencias-em-saneamento</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae desenvolve manual que ensina a fazer a compostagem caseira</title>
+      <link>https://www.samae.com.br/noticia/2707/samae-desenvolve-manual-que-ensna-a-fazer-a-compostagem-caseira</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2707/samae-desenvolve-manual-que-ensna-a-fazer-a-compostagem-caseira</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae organiza evento dedicado à educação ambiental e sustentabilidade</title>
+      <link>https://www.samae.com.br/noticia/2708/samae-organiza-evento-dedicado-a-educacao-ambiental-e-sustentabilidade</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2708/samae-organiza-evento-dedicado-a-educacao-ambiental-e-sustentabilidade</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae terá serviços em regime de plantão durante o Dia do Trabalhador</title>
+      <link>https://www.samae.com.br/noticia/2709/samae-tera-servicos-em-regime-de-plantao-durante-o-dia-do-trabalhador</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2709/samae-tera-servicos-em-regime-de-plantao-durante-o-dia-do-trabalhador</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae promove novas audiências públicas sobre o Plano de Gestão de Resíduos Sólidos em maio</title>
+      <link>https://www.samae.com.br/noticia/2710/samae-promove-novas-audiencias-publicas-sobre-o-plano-de-gestao-de-resduos-solidos-em-maio</link>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2710/samae-promove-novas-audiencias-publicas-sobre-o-plano-de-gestao-de-resduos-solidos-em-maio</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
