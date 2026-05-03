@@ -53,8 +53,17 @@ def process_source(cfg):
         else:
             items = scrape_page(cfg)
 
+        # Deduplica itens dentro da própria coleta (por URL)
+        unique_items = []
+        seen_urls = set()
+        for item in items:
+            if item["link"] not in seen_urls:
+                unique_items.append(item)
+                seen_urls.add(item["link"])
+        
+        items = unique_items
         new_items = [item for item in items if is_new(source_id, item["link"])]
-        log.info(f"  {len(items)} itens coletados, {len(new_items)} novos")
+        log.info(f"  {len(items)} itens únicos coletados, {len(new_items)} novos")
 
         if new_items:
             output_path = DOCS_DIR / cfg["feed_output"]

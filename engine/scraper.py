@@ -32,6 +32,7 @@ def _get(url, custom_headers=None):
         headers["X-Requested-With"] = "XMLHttpRequest"
 
     resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+    resp.encoding = resp.apparent_encoding
     resp.raise_for_status()
     time.sleep(POLITE_DELAY)
     return resp
@@ -46,6 +47,7 @@ def _get_with_session(url, custom_headers=None):
         headers.update(custom_headers)
     
     resp = session.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+    resp.encoding = resp.apparent_encoding
     resp.raise_for_status()
     time.sleep(POLITE_DELAY)
     return resp

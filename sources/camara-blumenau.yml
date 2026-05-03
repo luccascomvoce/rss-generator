@@ -1,16 +1,16 @@
 id: camara-blumenau
 title: "Câmara de Blumenau — Notícias"
 description: "Notícias da Câmara Municipal de Blumenau"
-url: https://camarablu.sc.gov.br/noticias
+url: https://camarablu.sc.gov.br/noticias/
 feed_output: camara-blumenau.xml
 type: scrape
 
 selectors:
-  items: "article, .news-item, li.item"
-  title: "h2, h3, .title, .titulo"
+  items: "article.noticia"
+  title: "h2"
   link: "a"
-  date: "time, .date, .data"
-  summary: "p, .summary, .resumo"
+  date: ""
+  summary: "p"
 
 link_prefix: "https://camarablu.sc.gov.br"
 max_items: 30
