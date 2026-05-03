@@ -1,0 +1,13 @@
+id: defesa-civil-sc
+title: "Defesa Civil SC — Alertas Blumenau"
+description: "Alertas e notícias da Defesa Civil de Santa Catarina filtrados por Blumenau"
+rss_url: https://www.defesacivil.sc.gov.br/feed
+feed_output: defesa-civil-sc.xml
+type: rss
+
+filter_keywords:
+  - "Blumenau"
+  - "Vale do Itajaí"
+  - "região de Blumenau"
+
+max_items: 30

@@ -1,0 +1,24 @@
+id: prefeitura-blumenau
+title: "Prefeitura de Blumenau — Notícias"
+description: "Notícias oficiais da Prefeitura Municipal de Blumenau"
+url: https://www.blumenau.sc.gov.br/listagem/noticias
+actual_url: https://www.blumenau.sc.gov.br/controller/pagina-busca.php?pagina=1
+pre_visit: true
+feed_output: prefeitura-blumenau.xml
+type: scrape
+
+headers:
+  Referer: https://www.blumenau.sc.gov.br/listagem/noticias
+  X-Requested-With: XMLHttpRequest
+
+# Ajuste os seletores abaixo inspecionando o HTML da página
+# Use DevTools (F12 > inspecionar elemento) para encontrar os seletores corretos
+selectors:
+  items: "li"
+  title: "a"
+  link: "a"
+  date: "span.descricao"
+  summary: ""
+
+link_prefix: "https://www.blumenau.sc.gov.br"
+max_items: 30

@@ -1,0 +1,39 @@
+name: Generate RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # toda hora, no minuto 0
+  workflow_dispatch:        # permite execução manual pela aba Actions
+
+permissions:
+  contents: write           # necessário para commitar os feeds gerados
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'          # cache de dependências para reduzir tempo de execução
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feeds
+        run: python engine/run.py
+
+      - name: Commit and push updated feeds
+        run: |
+          git config user.name  "rss-generator-bot"
+          git config user.email "bot@noreply.github.com"
+          git add docs/ state/
+          git diff --cached --quiet \
+            && echo "Nenhuma alteração." \
+            || (git commit -m "chore: update feeds [skip ci]" && git push)
