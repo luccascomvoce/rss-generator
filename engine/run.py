@@ -11,7 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
-from scraper import scrape_page, fetch_rss
+from scraper import scrape_page, fetch_rss, fetch_json
 from feed_builder import build_feed
 from deduplicator import is_new, mark_seen
 
@@ -49,7 +49,10 @@ def process_source(cfg):
                 cfg["rss_url"],
                 filter_keywords=cfg.get("filter_keywords", []),
                 max_items=cfg.get("max_items", 30),
+                verify=cfg.get("verify_ssl", True)
             )
+        elif source_type == "json":
+            items = fetch_json(cfg)
         else:
             items = scrape_page(cfg)
 

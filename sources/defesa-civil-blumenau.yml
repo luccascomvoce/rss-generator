@@ -1,0 +1,15 @@
+id: defesa-civil-blumenau
+title: "Defesa Civil Blumenau — Notícias"
+description: "Notícias e avisos oficiais da Defesa Civil de Blumenau (via JSON)"
+url: https://defesacivil.blumenau.sc.gov.br/weather/media/carga_noticias/carga_noticias.json
+feed_output: defesa-civil-blumenau.xml
+type: json
+verify_ssl: false
+
+selectors:
+  title: "titulo"
+  link: "url"
+  date: "data_post"
+  summary: "subtitulo"
+
+max_items: 30

@@ -9,6 +9,10 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
+import urllib3
+
+# Desabilita avisos de SSL inseguro caso uma fonte precise de verify: false
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 log = logging.getLogger(__name__)
 
@@ -22,7 +26,7 @@ REQUEST_TIMEOUT = 15
 POLITE_DELAY = 1.5  # segundos entre requisições
 
 
-def _get(url, custom_headers=None):
+def _get(url, custom_headers=None, verify=True):
     headers = HEADERS.copy()
     if custom_headers:
         headers.update(custom_headers)
@@ -31,7 +35,7 @@ def _get(url, custom_headers=None):
     if "X-Requested-With" not in headers and "controller" in url:
         headers["X-Requested-With"] = "XMLHttpRequest"
 
-    resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+    resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT, verify=verify)
     resp.encoding = resp.apparent_encoding
     resp.raise_for_status()
     time.sleep(POLITE_DELAY)
@@ -41,12 +45,12 @@ def _get(url, custom_headers=None):
 # Sessão global para persistir cookies entre chamadas (necessário para alguns sites)
 session = requests.Session()
 
-def _get_with_session(url, custom_headers=None):
+def _get_with_session(url, custom_headers=None, verify=True):
     headers = HEADERS.copy()
     if custom_headers:
         headers.update(custom_headers)
     
-    resp = session.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+    resp = session.get(url, headers=headers, timeout=REQUEST_TIMEOUT, verify=verify)
     resp.encoding = resp.apparent_encoding
     resp.raise_for_status()
     time.sleep(POLITE_DELAY)
@@ -55,14 +59,16 @@ def _get_with_session(url, custom_headers=None):
 
 def scrape_page(cfg):
     """Extrai itens de uma página HTML usando seletores CSS."""
+    verify = cfg.get("verify_ssl", True)
+
     # Alguns sites exigem visitar a página principal antes para obter cookies
     if cfg.get("pre_visit"):
-        _get_with_session(cfg["url"])
+        _get_with_session(cfg["url"], verify=verify)
         actual_url = cfg.get("actual_url", cfg["url"])
     else:
         actual_url = cfg["url"]
 
-    resp = _get_with_session(actual_url, custom_headers=cfg.get("headers"))
+    resp = _get_with_session(actual_url, custom_headers=cfg.get("headers"), verify=verify)
     soup = BeautifulSoup(resp.text, "lxml")
     sel = cfg.get("selectors", {})
     link_prefix = cfg.get("link_prefix", "")
@@ -141,9 +147,9 @@ def scrape_page(cfg):
     return items
 
 
-def fetch_rss(rss_url, filter_keywords=None, max_items=30):
+def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
     """Busca um feed RSS existente, aplica filtro por palavras-chave e retorna itens."""
-    resp = _get(rss_url)
+    resp = _get(rss_url, verify=verify)
     soup = BeautifulSoup(resp.content, "xml") # Usa parser de XML, mais tolerante a entidades
     
     entries = []
@@ -178,8 +184,42 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30):
     return entries[:max_items]
 
 
-def _xml_text(el, tag, ns=None):
-    child = el.find(tag, ns) if ns else el.find(tag)
-    if child is None:
-        return ""
-    return (child.text or "").strip()
+def fetch_json(cfg):
+    """Extrai itens de um endpoint JSON usando mapeamento de campos."""
+    url = cfg["url"]
+    verify = cfg.get("verify_ssl", True)
+    resp = _get(url, custom_headers=cfg.get("headers"), verify=verify)
+    data = resp.json()
+    
+    # Se os itens estiverem em uma sub-chave (ex: data['noticias'])
+    items_path = cfg.get("json_items_path")
+    if items_path:
+        for key in items_path.split('.'):
+            data = data.get(key, [])
+    
+    # Se não for uma lista, não podemos processar
+    if not isinstance(data, list):
+        log.warning(f"  Endpoint JSON {url} não retornou uma lista.")
+        return []
+
+    mapping = cfg.get("selectors", {})
+    items = []
+    
+    for entry in data[:cfg.get("max_items", 30)]:
+        items.append({
+            "title": entry.get(mapping.get("title", "title"), ""),
+            "link": entry.get(mapping.get("link", "link"), ""),
+            "date": entry.get(mapping.get("date", "date"), ""),
+            "summary": entry.get(mapping.get("summary", "summary"), ""),
+        })
+
+    # Aplica filtro por palavras-chave se configurado
+    filter_keywords = cfg.get("filter_keywords")
+    if filter_keywords:
+        kw_lower = [k.lower() for k in filter_keywords]
+        items = [
+            item for item in items
+            if any(kw in (item["title"] + " " + item["summary"]).lower() for kw in kw_lower)
+        ]
+
+    return items
