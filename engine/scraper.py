@@ -122,28 +122,28 @@ def scrape_page(cfg):
 def fetch_rss(rss_url, filter_keywords=None, max_items=30):
     """Busca um feed RSS existente, aplica filtro por palavras-chave e retorna itens."""
     resp = _get(rss_url)
-    root = ET.fromstring(resp.content)
-
-    ns = {"atom": "http://www.w3.org/2005/Atom"}
-    channel = root.find("channel")
+    soup = BeautifulSoup(resp.content, "xml") # Usa parser de XML, mais tolerante a entidades
+    
     entries = []
-
-    if channel is not None:
+    # Tenta detectar se é RSS 2.0 ou Atom
+    items = soup.find_all("item")
+    if items:
         # RSS 2.0
-        for item in channel.findall("item")[:max_items * 3]:
-            title = _xml_text(item, "title")
-            link = _xml_text(item, "link")
-            date = _xml_text(item, "pubDate")
-            summary = _xml_text(item, "description")
+        for item in items[:max_items * 3]:
+            title = item.find("title").get_text(strip=True) if item.find("title") else ""
+            link = item.find("link").get_text(strip=True) if item.find("link") else ""
+            date = item.find("pubDate").get_text(strip=True) if item.find("pubDate") else ""
+            summary = item.find("description").get_text(strip=True) if item.find("description") else ""
             entries.append({"title": title, "link": link, "date": date, "summary": summary})
     else:
         # Atom
-        for entry in root.findall("atom:entry", ns)[:max_items * 3]:
-            title = _xml_text(entry, "atom:title", ns)
-            link_el = entry.find("atom:link", ns)
-            link = link_el.get("href", "") if link_el is not None else ""
-            date = _xml_text(entry, "atom:updated", ns)
-            summary = _xml_text(entry, "atom:summary", ns)
+        items = soup.find_all("entry")
+        for item in items[:max_items * 3]:
+            title = item.find("title").get_text(strip=True) if item.find("title") else ""
+            link_el = item.find("link")
+            link = link_el.get("href", "") if link_el else ""
+            date = (item.find("updated") or item.find("published")).get_text(strip=True) if (item.find("updated") or item.find("published")) else ""
+            summary = (item.find("summary") or item.find("content")).get_text(strip=True) if (item.find("summary") or item.find("content")) else ""
             entries.append({"title": title, "link": link, "date": date, "summary": summary})
 
     if filter_keywords:

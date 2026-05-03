@@ -1,0 +1,8 @@
+id: o-municipio
+title: "O Município — Notícias de Blumenau"
+description: "Notícias da edição de Blumenau do jornal O Município"
+rss_url: https://omunicipio.com.br/noticias/blumenau-sc/feed/
+feed_output: o-municipio.xml
+type: rss
+
+max_items: 30
