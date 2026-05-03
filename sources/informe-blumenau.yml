@@ -1,0 +1,32 @@
+id: informe-blumenau
+title: "Informe Blumenau — Notícias"
+description: "Notícias locais de Blumenau coletadas via Informe Blumenau"
+rss_url: https://www.informeblumenau.com/feed/
+feed_output: informe-blumenau.xml
+type: rss
+
+# Filtro para manter o foco local em Blumenau e bairros
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
+
+max_items: 30
