@@ -8,9 +8,10 @@ type: scrape
 selectors:
   items: ".content_noticias li a"
   title: "h3"
-  link: "a" # O próprio item é um <a>
+  link: "a"
   date: "span"
-  summary: "" # Não disponível na listagem, mas o título é bem descritivo
+  summary: ""
+  image: ".foto img"
 
 link_prefix: "https://www.samae.com.br"
 max_items: 30

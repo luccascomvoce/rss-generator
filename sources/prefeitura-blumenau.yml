@@ -11,14 +11,13 @@ headers:
   Referer: https://www.blumenau.sc.gov.br/listagem/noticias
   X-Requested-With: XMLHttpRequest
 
-# Ajuste os seletores abaixo inspecionando o HTML da página
-# Use DevTools (F12 > inspecionar elemento) para encontrar os seletores corretos
 selectors:
   items: "li"
   title: "a"
   link: "a"
   date: "span.descricao"
   summary: ""
+  image: "img"
 
 link_prefix: "https://www.blumenau.sc.gov.br"
 max_items: 30

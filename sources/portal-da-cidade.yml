@@ -8,9 +8,10 @@ type: scrape
 selectors:
   items: "a.list-content--item"
   title: "h2.list-content--title"
-  link: "a" # O próprio item é um <a>
+  link: "a"
   date: "p.news-item--post-date"
   summary: "p.news-item--subtitle"
+  image: ".list-content--image"
 
 link_prefix: "https://blumenau.portaldacidade.com"
 max_items: 30

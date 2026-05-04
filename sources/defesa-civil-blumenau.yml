@@ -11,5 +11,6 @@ selectors:
   link: "url"
   date: "data_post"
   summary: "subtitulo"
+  image: "imagem"
 
 max_items: 30

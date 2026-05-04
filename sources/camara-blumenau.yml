@@ -8,9 +8,10 @@ type: scrape
 selectors:
   items: "article.noticia"
   title: "h2"
-  link: "a"
-  date: ""
+  link: "a.vejamais"
+  date: "span.data"
   summary: "p"
+  image: "img.img-responsive"
 
 link_prefix: "https://camarablu.sc.gov.br"
 max_items: 30

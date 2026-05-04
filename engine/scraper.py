@@ -100,6 +100,9 @@ def scrape_page(cfg):
         
         date_el = el.select_one(date_sel) if date_sel else None
         summary_el = el.select_one(summary_sel) if summary_sel else None
+        
+        image_sel = sel.get("image")
+        image_el = el.select_one(image_sel) if image_sel else None
 
         if not title_el or not link_el:
             continue
@@ -117,10 +120,23 @@ def scrape_page(cfg):
         if date_el:
             date_str = date_el.get("datetime") or date_el.get_text(strip=True)
 
-        # Limpeza de título: remove prefixos repetidos (comum se o seletor do título engloba a data)
+        # Imagem
+        image_url = ""
+        if image_el:
+            # Tenta pegar de src, data-src ou style (background-image)
+            image_url = image_el.get("src") or image_el.get("data-src") or ""
+            if not image_url and image_el.has_attr("style"):
+                import re
+                bg_match = re.search(r'url\((["\']?)(.*?)\1\)', image_el["style"])
+                if bg_match:
+                    image_url = bg_match.group(2)
+            
+            if image_url and not image_url.startswith("http"):
+                image_url = urljoin(link_prefix or cfg["url"], image_url)
+
+        # Limpeza de título: remove prefixos repetidos
         if date_str and title.startswith(date_str):
             title = title[len(date_str):].strip()
-            # Remove separadores comuns como " - " ou " | "
             for sep in ["-", "|", ":", "—"]:
                 if title.startswith(sep):
                     title = title[len(sep):].strip()
@@ -133,6 +149,7 @@ def scrape_page(cfg):
             "link": link,
             "date": date_str,
             "summary": summary,
+            "image": image_url,
         })
 
     # Aplica filtro por palavras-chave se configurado
@@ -162,7 +179,21 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             link = item.find("link").get_text(strip=True) if item.find("link") else ""
             date = item.find("pubDate").get_text(strip=True) if item.find("pubDate") else ""
             summary = item.find("description").get_text(strip=True) if item.find("description") else ""
-            entries.append({"title": title, "link": link, "date": date, "summary": summary})
+            
+            # Tenta pegar imagem de enclosure ou media:content
+            image = ""
+            enc = item.find("enclosure")
+            if enc and enc.get("url"):
+                image = enc["url"]
+            if not image:
+                media = item.find("content", namespace=re.compile(r".*media.*")) or item.find("thumbnail")
+                if media and media.get("url"):
+                    image = media["url"]
+
+            entries.append({
+                "title": title, "link": link, "date": date, 
+                "summary": summary, "image": image
+            })
     else:
         # Atom
         items = soup.find_all("entry")
@@ -172,7 +203,16 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             link = link_el.get("href", "") if link_el else ""
             date = (item.find("updated") or item.find("published")).get_text(strip=True) if (item.find("updated") or item.find("published")) else ""
             summary = (item.find("summary") or item.find("content")).get_text(strip=True) if (item.find("summary") or item.find("content")) else ""
-            entries.append({"title": title, "link": link, "date": date, "summary": summary})
+            
+            image = ""
+            link_img = item.find("link", rel="enclosure")
+            if link_img and link_img.get("href"):
+                image = link_img["href"]
+
+            entries.append({
+                "title": title, "link": link, "date": date, 
+                "summary": summary, "image": image
+            })
 
     if filter_keywords:
         kw_lower = [k.lower() for k in filter_keywords]
@@ -211,6 +251,7 @@ def fetch_json(cfg):
             "link": entry.get(mapping.get("link", "link"), ""),
             "date": entry.get(mapping.get("date", "date"), ""),
             "summary": entry.get(mapping.get("summary", "summary"), ""),
+            "image": entry.get(mapping.get("image", "image"), ""),
         })
 
     # Aplica filtro por palavras-chave se configurado

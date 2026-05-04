@@ -30,6 +30,12 @@ def build_feed(cfg, items, output_path: Path):
         if item.get("summary"):
             fe.description(item["summary"])
 
+        if item.get("image"):
+            # Determina o tipo MIME básico baseado na extensão
+            ext = item["image"].split('.')[-1].lower() if '.' in item["image"] else 'jpg'
+            mime = f"image/{ext}" if ext in ["png", "gif", "webp"] else "image/jpeg"
+            fe.enclosure(item["image"], 0, mime)
+
         pub_date = _parse_date(item.get("date"))
         fe.pubDate(pub_date)
 
