@@ -1,0 +1,16 @@
+id: portal-da-cidade
+title: "Portal da Cidade — Blumenau"
+description: "Notícias locais do Portal da Cidade Blumenau"
+url: https://blumenau.portaldacidade.com/noticias
+feed_output: portal-da-cidade.xml
+type: scrape
+
+selectors:
+  items: "a.list-content--item"
+  title: "h2.list-content--title"
+  link: "a" # O próprio item é um <a>
+  date: "p.news-item--post-date"
+  summary: "p.news-item--subtitle"
+
+link_prefix: "https://blumenau.portaldacidade.com"
+max_items: 30

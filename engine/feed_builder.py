@@ -41,24 +41,33 @@ def _parse_date(date_str):
     if not date_str:
         return datetime.now(tz=timezone.utc)
     
-    # Tradução simples para datas em Português (comum em sites do governo)
+    clean_date = date_str.lower()
+    
+    # Remoção de termos comuns em português que confundem o parser
+    removals = [
+        "publicado em", "atualizado em", "postado em", "s", "às", "de", "h"
+    ]
+    for term in removals:
+        clean_date = clean_date.replace(term, " ")
+    
+    # Tradução simples para meses
     months_pt = {
         "janeiro": "January", "fevereiro": "February", "março": "March",
         "abril": "April", "maio": "May", "junho": "June",
         "julho": "July", "agosto": "August", "setembro": "September",
         "outubro": "October", "novembro": "November", "dezembro": "December"
     }
-    
-    clean_date = date_str.lower()
     for pt, en in months_pt.items():
         if pt in clean_date:
             clean_date = clean_date.replace(pt, en)
     
-    # Remove "de" (ex: "2 de maio de 2024")
-    clean_date = clean_date.replace(" de ", " ")
+    # Tratamento básico para datas relativas (ex: "h 2 horas", "h 10 minutos")
+    # Para o RSS, datas relativas sero aproximadas para o momento da coleta se o parser falhar
+    if "há" in clean_date or "ha" in clean_date:
+        return datetime.now(tz=timezone.utc)
 
     try:
-        dt = dateparser.parse(clean_date)
+        dt = dateparser.parse(clean_date, fuzzy=True)
         if dt and dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt or datetime.now(tz=timezone.utc)
