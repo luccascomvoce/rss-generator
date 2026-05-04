@@ -1,0 +1,33 @@
+id: celesc
+title: "Celesc — Notícias Blumenau"
+description: "Notícias da Celesc filtradas para Blumenau e Vale do Itajaí"
+rss_url: "https://www.celesc.com.br/listagem-noticias?format=feed&type=rss"
+feed_output: celesc.xml
+type: rss
+verify_ssl: false
+
+# Filtro para capturar apenas o que for relevante para a cidade/região
+filter_keywords:
+  - "Blumenau"
+  - "Vale do Itajaí"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+
+max_items: 20
