@@ -11,6 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 import urllib3
 import re
+import html
 
 # Desabilita avisos de SSL inseguro caso uma fonte precise de verify: false
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -19,26 +20,47 @@ log = logging.getLogger(__name__)
 
 
 def _clean_html(raw_html):
-    """Remove tags HTML e rodapés comuns de feeds WordPress."""
+    """Remove tags HTML, decodifica entidades e limpa rodapés/links de 'leia mais'."""
     if not raw_html:
         return ""
     
-    # Se for BeautifulSoup element, pega o texto
-    if hasattr(raw_html, "get_text"):
-        text = raw_html.get_text(separator=" ", strip=True)
+    # Converte para string e decodifica entidades HTML
+    if hasattr(raw_html, "decode_contents"):
+        content = raw_html.decode_contents()
     else:
-        # Se for string com HTML, usa BS4 para limpar
-        text = BeautifulSoup(str(raw_html), "lxml").get_text(separator=" ", strip=True)
+        content = str(raw_html)
+    
+    content = html.unescape(content)
 
-    # Remove o rodapé comum do WordPress "O post ... apareceu primeiro em ..."
-    wp_footer_patterns = [
+    # Usa BS4 para manipular o HTML
+    soup = BeautifulSoup(content, "lxml")
+    
+    # 1. Remove links de "Leia mais", "Read more" e similares por classe ou texto
+    for a in soup.find_all("a"):
+        # Se a classe contém palavras de 'leia mais'
+        classes = " ".join(a.get("class", []))
+        if re.search(r"more|read|leia|excerpt", classes, re.I):
+            a.decompose()
+            continue
+        # Se o texto do link é só [...] ou similar
+        if re.match(r"^[\[\(\.\s]*\.\.\.[\]\)\s]*$", a.get_text()):
+            a.decompose()
+
+    # 2. Extrai apenas o texto puro
+    text = soup.get_text(separator=" ", strip=True)
+
+    # 3. Remove rodapés WordPress e padrões de reticências que sobraram no texto
+    patterns = [
         r"O post .* apareceu primeiro em .*",
-        r"The post .* appeared first on .*"
+        r"The post .* appeared first on .*",
+        r"\[\.\.\.\]", 
+        r"\(\.\.\.\)",
+        r"\.\.\.\s*$" # Reticências no final
     ]
-    for pattern in wp_footer_patterns:
+    for pattern in patterns:
         text = re.sub(pattern, "", text, flags=re.IGNORECASE)
 
-    # Normaliza espaços
+    # 4. Normalização final
     text = " ".join(text.split())
     return text.strip()
 
