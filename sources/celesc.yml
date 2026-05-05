@@ -9,7 +9,6 @@ verify_ssl: false
 # Filtro para capturar apenas o que for relevante para a cidade/região
 filter_keywords:
   - "Blumenau"
-  - "Vale do Itajaí"
   - "Garcia"
   - "Velha"
   - "Itoupava"
@@ -29,5 +28,6 @@ filter_keywords:
   - "Nova Esperança"
   - "Fidélis"
   - "Itoupavazinha"
+  - "Vale do Itajaí"
 
 max_items: 20

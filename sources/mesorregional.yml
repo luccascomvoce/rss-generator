@@ -8,9 +8,25 @@ type: rss
 # Filtro adicional opcional para garantir relevância
 filter_keywords:
   - "Blumenau"
-  - "Vale do Itajaí"
   - "Garcia"
   - "Velha"
   - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
 
 max_items: 30
