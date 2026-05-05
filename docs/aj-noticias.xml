@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 22:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:17:34 +0000</lastBuildDate>
+    <item>
+      <title>Atletas de Blumenau brilham em torneios nacionais e estaduais neste fim de semana</title>
+      <link>https://ajnoticias.com.br/noticia/54384/atletas-de-blumenau-brilham-em-competicoes-nacionais-e-estaduais-neste-fim-de-semana</link>
+      <description>Município teve representantes em quatro modalidades com bons resultados.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54384/atletas-de-blumenau-brilham-em-competicoes-nacionais-e-estaduais-neste-fim-de-semana</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54384/a4fb38e5b82bfd36710c090a6de834ac.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Campanha Maio Amarelo começa em Blumenau com foco em segurança viária e ações de conscientização no trânsito</title>
       <link>https://ajnoticias.com.br/noticia/54386/campanha-maio-amarelo-comeca-em-blumenau-com-foco-em-seguranca-viaria-e-acoes-de-conscientizacao-no-transito</link>
       <description>Programação inclui blitz, simulações e ações educativas ao longo do mês.</description>
       <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54386/campanha-maio-amarelo-comeca-em-blumenau-com-foco-em-seguranca-viaria-e-acoes-de-conscientizacao-no-transito</guid>
-      <enclosure url="https://ajnoticias.com.br/tema/v10/img/pre-img.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 May 2041 00:00:00 +0000</pubDate>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54386/5096172aefc0520c87806c0ddec9a222.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

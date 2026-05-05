@@ -17,6 +17,31 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 log = logging.getLogger(__name__)
 
+
+def _clean_html(raw_html):
+    """Remove tags HTML e rodapés comuns de feeds WordPress."""
+    if not raw_html:
+        return ""
+    
+    # Se for BeautifulSoup element, pega o texto
+    if hasattr(raw_html, "get_text"):
+        text = raw_html.get_text(separator=" ", strip=True)
+    else:
+        # Se for string com HTML, usa BS4 para limpar
+        text = BeautifulSoup(str(raw_html), "lxml").get_text(separator=" ", strip=True)
+
+    # Remove o rodapé comum do WordPress "O post ... apareceu primeiro em ..."
+    wp_footer_patterns = [
+        r"O post .* apareceu primeiro em .*",
+        r"The post .* appeared first on .*"
+    ]
+    for pattern in wp_footer_patterns:
+        text = re.sub(pattern, "", text, flags=re.IGNORECASE)
+
+    # Normaliza espaços
+    text = " ".join(text.split())
+    return text.strip()
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (compatible; rss-generator/1.0; "
@@ -157,7 +182,7 @@ def scrape_page(cfg):
                     title = title[len(sep):].strip()
                     break
 
-        summary = summary_el.get_text(strip=True) if summary_el else ""
+        summary = _clean_html(summary_el) if summary_el else ""
 
         items.append({
             "title": title,
@@ -193,7 +218,7 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             title = item.find("title").get_text(strip=True) if item.find("title") else ""
             link = item.find("link").get_text(strip=True) if item.find("link") else ""
             date = item.find("pubDate").get_text(strip=True) if item.find("pubDate") else ""
-            summary = item.find("description").get_text(strip=True) if item.find("description") else ""
+            summary = _clean_html(item.find("description")) if item.find("description") else ""
             
             # Tenta pegar imagem de enclosure ou media:content
             image = ""
@@ -217,8 +242,8 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             link_el = item.find("link")
             link = link_el.get("href", "") if link_el else ""
             date = (item.find("updated") or item.find("published")).get_text(strip=True) if (item.find("updated") or item.find("published")) else ""
-            summary = (item.find("summary") or item.find("content")).get_text(strip=True) if (item.find("summary") or item.find("content")) else ""
-            
+            summary = _clean_html(item.find("summary") or item.find("content"))
+
             image = ""
             link_img = item.find("link", rel="enclosure")
             if link_img and link_img.get("href"):
@@ -265,7 +290,7 @@ def fetch_json(cfg):
             "title": entry.get(mapping.get("title", "title"), ""),
             "link": entry.get(mapping.get("link", "link"), ""),
             "date": entry.get(mapping.get("date", "date"), ""),
-            "summary": entry.get(mapping.get("summary", "summary"), ""),
+            "summary": _clean_html(entry.get(mapping.get("summary", "summary"), "")),
             "image": entry.get(mapping.get("image", "image"), ""),
         })
 
