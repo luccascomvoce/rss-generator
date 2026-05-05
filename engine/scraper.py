@@ -10,6 +10,7 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 import urllib3
+import re
 
 # Desabilita avisos de SSL inseguro caso uma fonte precise de verify: false
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -123,10 +124,24 @@ def scrape_page(cfg):
         # Imagem
         image_url = ""
         if image_el:
-            # Tenta pegar de src, data-src ou style (background-image)
-            image_url = image_el.get("src") or image_el.get("data-src") or ""
+            # Lista de atributos comuns para Lazy Loading (em ordem de prioridade)
+            lazy_attrs = ["data-src", "data-lazy", "data-original", "data-echo", "data-url", "src"]
+            
+            for attr in lazy_attrs:
+                val = image_el.get(attr)
+                if val:
+                    # Verifica se no é um placeholder comum
+                    placeholders = ["pre-img", "placeholder", "loading", "spacer", "transparent", "default"]
+                    if not any(p in val.lower() for p in placeholders):
+                        image_url = val
+                        break
+            
+            # Fallback para o primeiro valor encontrado se nenhum passou no filtro (melhor que nada)
+            if not image_url:
+                image_url = image_el.get("src") or ""
+
+            # Trata background-image via style caso não tenha tag img com src
             if not image_url and image_el.has_attr("style"):
-                import re
                 bg_match = re.search(r'url\((["\']?)(.*?)\1\)', image_el["style"])
                 if bg_match:
                     image_url = bg_match.group(2)
