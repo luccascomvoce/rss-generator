@@ -11,7 +11,7 @@ selectors:
   link: "h2.entry-title a"
   date: ".posted-on time"
   summary: ".entry-content p"
-  image: "img.img-responsive"
+  image: ".post-thumbnail img"
 
 link_prefix: "https://www.defesacivil.sc.gov.br"
 max_items: 30

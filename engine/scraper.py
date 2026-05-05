@@ -226,6 +226,30 @@ def scrape_page(cfg):
     return items
 
 
+def _fetch_fallback_image(url, verify=True):
+    """Visita a URL da notícia para tentar encontrar a imagem de destaque no HTML."""
+    try:
+        resp = _get(url, verify=verify)
+        soup = BeautifulSoup(resp.text, "lxml")
+        
+        # Tenta metas de redes sociais primeiro (quase sempre tem a imagem de destaque)
+        og_image = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
+        if og_image and og_image.get("content"):
+            return og_image["content"]
+        
+        # Fallback para tags comuns de imagem de destaque em portais
+        featured = soup.select_one(".featured-image img, .post-thumbnail img, .entry-content img, article img")
+        if featured:
+            lazy_attrs = ["data-src", "data-lazy", "data-original", "src"]
+            for attr in lazy_attrs:
+                val = featured.get(attr)
+                if val and not any(p in val.lower() for p in ["placeholder", "pre-img", "spacer"]):
+                    return urljoin(url, val)
+    except Exception as e:
+        log.debug(f"  Falha ao buscar imagem de fallback para {url}: {e}")
+    return ""
+
+
 def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
     """Busca um feed RSS existente, aplica filtro por palavras-chave e retorna itens."""
     resp = _get(rss_url, verify=verify)
@@ -251,6 +275,11 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
                 media = item.find("content", namespace=re.compile(r".*media.*")) or item.find("thumbnail")
                 if media and media.get("url"):
                     image = media["url"]
+            
+            # NOVIDADE: Se não achou imagem no feed, tenta buscar no site da notícia
+            if not image and link:
+                log.info(f"  RSS sem imagem para '{title[:30]}...', buscando fallback...")
+                image = _fetch_fallback_image(link, verify=verify)
 
             entries.append({
                 "title": title, "link": link, "date": date, 
@@ -270,6 +299,9 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             link_img = item.find("link", rel="enclosure")
             if link_img and link_img.get("href"):
                 image = link_img["href"]
+            
+            if not image and link:
+                image = _fetch_fallback_image(link, verify=verify)
 
             entries.append({
                 "title": title, "link": link, "date": date, 

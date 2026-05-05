@@ -11,7 +11,7 @@ selectors:
   link: "a"
   date: "p.news-item--post-date"
   summary: "p.news-item--subtitle"
-  image: ".list-content--image"
+  image: ".list-content--image img"
 
 link_prefix: "https://blumenau.portaldacidade.com"
 max_items: 30
