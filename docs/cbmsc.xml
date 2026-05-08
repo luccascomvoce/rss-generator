@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bombeiros SC — Notícias</title>
+    <link>https://www.cbm.sc.gov.br/index.php/blog-de-noticias</link>
+    <description>Notícias e ocorrências do Corpo de Bombeiros Militar de Santa Catarina</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 08 May 2026 13:35:11 +0000</lastBuildDate>
+    <item>
+      <title>ARCANJO 04 COMPLETA DOIS ANOS EM JOAÇABA COM 398 MISSÕES E CERCA DE 700 PESSOAS TRANSPORTADAS PELO CBMSC</title>
+      <link>https://www.cbm.sc.gov.br/index.php/blog-de-noticias/arcanjo-04-completa-dois-anos-em-joacaba-com-398-missoes-e-cerca-de-700-pessoas-transportadas-pelo-cbmsc</link>
+      <description>A 3ª Companhia do Batalhão de Operações Aéreas do Corpo de Bombeiros Militar de Santa Catarina (CBMSC) completa hoje, 10 de abril de 2026, dois anos de atuação em Joaçaba com números que reforçam a importância estratégica do serviço para o atendimento de urgência e emergência no Estado. Desde a implantação da base aeromédica, em abril de 2024, a unidade já realizou 398 missões, somou mais de 1.077 horas de voo, transportou aproximadamente 700 pessoas entre pacientes e acompanhantes e alcançou 97% de missões cumpridas. Bombeiros CBMSC Continuar lendo</description>
+      <guid isPermaLink="false">https://www.cbm.sc.gov.br/index.php/blog-de-noticias/arcanjo-04-completa-dois-anos-em-joacaba-com-398-missoes-e-cerca-de-700-pessoas-transportadas-pelo-cbmsc</guid>
+      <enclosure url="https://www.cbm.sc.gov.br/images/NovoBlog/15903/b2ap3_thumbnail_Aeronaves-Juntas-Cessna-208-Grand-Caravan---PR-IAL-e-PR-CMD.png" length="0" type="image/png"/>
+      <pubDate>Tue, 08 May 2610 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CBMSC REALIZA TREINAMENTO PARA USO DE NOVOS EQUIPAMENTOS DE ATENDIMENTO A EMERGÊNCIAS</title>
+      <link>https://www.cbm.sc.gov.br/index.php/blog-de-noticias/cbmsc-realiza-treinamento-para-uso-de-novos-equipamentos-de-atendimento-a-emergencias</link>
+      <description>O Corpo de Bombeiros Militar de Santa Catarina realiza, ao longo do mês de abril, um treinamento operacional estratégico em Atendimento Pré-Hospitalar (APH) voltado às suas guarnições do 10º Batalhão de Bombeiros Militar (10º BBM), em São José. O foco é capacitar as equipes para o uso de novos equipamentos e insumos empregados no atendimento a vítimas em situações de emergência. Bombeiros CBMSC Treinamento Continuar lendo</description>
+      <guid isPermaLink="false">https://www.cbm.sc.gov.br/index.php/blog-de-noticias/cbmsc-realiza-treinamento-para-uso-de-novos-equipamentos-de-atendimento-a-emergencias</guid>
+      <enclosure url="https://www.cbm.sc.gov.br/images/NovoBlog/15904/b2ap3_thumbnail_WhatsApp-Image-2026-04-07-at-18.11.03.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 08 May 2610 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CBMSC FORMA E PROMOVE BOMBEIROS COMUNITÁRIOS NO NORTE DO ESTADO</title>
+      <link>https://www.cbm.sc.gov.br/index.php/blog-de-noticias/cbmsc-forma-e-promove-bombeiros-comunitarios-no-norte-do-estado</link>
+      <description>O Corpo de Bombeiros Militar de Santa Catarina (CBMSC) formou 13 novos bombeiros comunitários e promoveu outros 22 durante solenidade neste mês de abril, na cidade de Barra Velha. O evento contou com a presença de familiares e autoridades. Bombeiros CBMSC formatura Bombeiro Comunitário Barra Velha Continuar lendo</description>
+      <guid isPermaLink="false">https://www.cbm.sc.gov.br/index.php/blog-de-noticias/cbmsc-forma-e-promove-bombeiros-comunitarios-no-norte-do-estado</guid>
+      <enclosure url="https://www.cbm.sc.gov.br/images/NovoBlog/15913/b2ap3_thumbnail_20260407_181719-1.png" length="0" type="image/png"/>
+      <pubDate>Mon, 08 May 2615 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
