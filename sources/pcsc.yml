@@ -1,0 +1,44 @@
+id: pcsc
+title: "Polícia Civil SC — Notícias"
+description: "Notícias e operações da Polícia Civil de Santa Catarina"
+url: "https://pc.sc.gov.br/?page_id=1258"
+feed_output: pcsc.xml
+type: scrape
+
+selectors:
+  items: ".elementor-post"
+  title: "h3" # Mais genérico dentro do post
+  link: "a"   # Pega o primeiro link do item
+  date: ".elementor-post-date"
+  summary: ".elementor-post__excerpt"
+  image: "img" # Pega a primeira imagem que encontrar no item
+
+max_items: 20
+
+# Filtro ampliado para focar em ocorrências de Blumenau e região
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
+  - "DIC"
+  - "Delegacia Regional"
+  - "Egídio Ferrari"
+  - "Mário Hildebrandt"
