@@ -1,0 +1,45 @@
+id: pmsc-10bpm
+title: "Polícia Militar Blumenau — 10º BPM"
+description: "Notícias e ocorrências do 10º Batalhão da Polícia Militar em Blumenau"
+url: "https://www.pm.sc.gov.br/10bpm/noticias"
+feed_output: pmsc-10bpm.xml
+type: scrape
+verify_ssl: false
+
+selectors:
+  items: ".noticia"
+  title: "h2, .titulo-noticia" # Tenta h2 ou a classe do título
+  link: "a" # Pega o primeiro link
+  date: ".bloco-texto"
+  summary: "" # Deixa em branco para o fallback buscar o texto completo
+  image: ""   # Deixa em branco para o fallback buscar a foto de destaque
+
+max_items: 20
+
+# Filtro ampliado para manter o padrão das outras fontes
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
+  - "10º BPM"
+  - "Policiamento"
+  - "Prisão"
+  - "Ocorrência"
