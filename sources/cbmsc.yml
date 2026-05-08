@@ -1,0 +1,45 @@
+id: cbmsc
+title: "Bombeiros SC — Notícias"
+description: "Notícias e ocorrências do Corpo de Bombeiros Militar de Santa Catarina"
+url: "https://www.cbm.sc.gov.br/index.php/blog-de-noticias"
+link_prefix: "https://www.cbm.sc.gov.br"
+feed_output: cbmsc.xml
+type: scrape
+verify_ssl: false
+
+selectors:
+  items: ".eb-post"
+  title: "h2, .eb-post-title"
+  link: "a"
+  date: ".eb-post-calendar"
+  summary: ".eb-post-body"
+  image: ".eb-post-image-cover"
+
+max_items: 50
+
+# Filtro focado estritamente em Blumenau e região
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
+  - "Mário Hildebrandt"
+  - "10º BBM" # Batalhão de Bombeiros Militar de Blumenau
+  - "3ª Companhia"
