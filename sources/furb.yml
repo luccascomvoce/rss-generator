@@ -1,0 +1,46 @@
+id: furb
+title: "FURB — Notícias"
+description: "Notícias da Universidade Regional de Blumenau"
+url: https://www.furb.br/pt/noticias
+feed_output: furb.xml
+type: scrape
+
+selectors:
+  items: ".f20-noticia"
+  title: ".views-field-title a"
+  link: ".views-field-title a"
+  date: ".views-field-created .field-content"
+  summary: "" # Capturado via fallback automático
+  image: ".views-field-field-imagem img"
+
+max_items: 20
+
+# Filtro ampliado para focar em temas de Blumenau e região
+filter_keywords:
+  - "Blumenau"
+  - "Garcia"
+  - "Velha"
+  - "Itoupava"
+  - "Vila Nova"
+  - "Victor Konder"
+  - "Escola Agrícola"
+  - "Água Verde"
+  - "Ponta Aguda"
+  - "Vorstadt"
+  - "Progresso"
+  - "Passo Manso"
+  - "Badenfurt"
+  - "Testo Salto"
+  - "Salto do Norte"
+  - "Fortaleza"
+  - "Tribess"
+  - "Nova Esperança"
+  - "Fidélis"
+  - "Itoupavazinha"
+  - "Vale do Itajaí"
+  - "FURB"
+  - "Universidade Regional"
+  - "Mário Hildebrandt"
+  - "Napoleão Bernardes"
+  - "Ivan Naatz"
+  - "Egídio Ferrari"

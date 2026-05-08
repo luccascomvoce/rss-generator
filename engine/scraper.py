@@ -206,6 +206,12 @@ def scrape_page(cfg):
 
         summary = _clean_html(summary_el) if summary_el else ""
 
+        # Se faltar imagem ou resumo, tenta buscar no site (Fallback Automático)
+        if (not image_url or not summary) and link:
+            fb = _fetch_fallback_data(link, verify=cfg.get("verify_ssl", True))
+            if not image_url: image_url = fb["image"]
+            if not summary: summary = fb["summary"]
+
         items.append({
             "title": title,
             "link": link,
@@ -226,37 +232,47 @@ def scrape_page(cfg):
     return items
 
 
-def _fetch_fallback_image(url, verify=True):
-    """Visita a URL da notícia para tentar encontrar a imagem de destaque no HTML."""
+def _fetch_fallback_data(url, verify=True):
+    """Visita a URL da notícia para tentar encontrar a imagem e o resumo no HTML."""
+    data = {"image": "", "summary": ""}
     try:
         resp = _get(url, verify=verify)
         soup = BeautifulSoup(resp.text, "lxml")
         
-        # Tenta metas de redes sociais primeiro (quase sempre tem a imagem de destaque)
+        # 1. Busca Imagem (Meta tags > Tags comuns)
         og_image = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
         if og_image and og_image.get("content"):
-            return og_image["content"]
-        
-        # Fallback para tags comuns de imagem de destaque em portais
-        featured = soup.select_one(".featured-image img, .post-thumbnail img, .entry-content img, article img")
-        if featured:
-            lazy_attrs = ["data-src", "data-lazy", "data-original", "src"]
-            for attr in lazy_attrs:
-                val = featured.get(attr)
-                if val and not any(p in val.lower() for p in ["placeholder", "pre-img", "spacer"]):
-                    return urljoin(url, val)
+            data["image"] = og_image["content"]
+        else:
+            featured = soup.select_one(".featured-image img, .post-thumbnail img, .entry-content img, article img")
+            if featured:
+                lazy_attrs = ["data-src", "data-lazy", "data-original", "src"]
+                for attr in lazy_attrs:
+                    val = featured.get(attr)
+                    if val and not any(p in val.lower() for p in ["placeholder", "pre-img", "spacer"]):
+                        data["image"] = urljoin(url, val)
+                        break
+
+        # 2. Busca Resumo (Meta tags > Primeiro parágrafo)
+        desc = soup.find("meta", property="og:description") or soup.find("meta", attrs={"name": "description"})
+        if desc and desc.get("content"):
+            data["summary"] = _clean_html(desc["content"])
+        else:
+            first_p = soup.select_one("article p, .entry-content p, #noticia_texto p")
+            if first_p:
+                data["summary"] = _clean_html(first_p)
+
     except Exception as e:
-        log.debug(f"  Falha ao buscar imagem de fallback para {url}: {e}")
-    return ""
+        log.debug(f"  Falha ao buscar fallback data para {url}: {e}")
+    return data
 
 
 def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
     """Busca um feed RSS existente, aplica filtro por palavras-chave e retorna itens."""
     resp = _get(rss_url, verify=verify)
-    soup = BeautifulSoup(resp.content, "xml") # Usa parser de XML, mais tolerante a entidades
+    soup = BeautifulSoup(resp.content, "xml") 
     
     entries = []
-    # Tenta detectar se é RSS 2.0 ou Atom
     items = soup.find_all("item")
     if items:
         # RSS 2.0
@@ -266,7 +282,6 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             date = item.find("pubDate").get_text(strip=True) if item.find("pubDate") else ""
             summary = _clean_html(item.find("description")) if item.find("description") else ""
             
-            # Tenta pegar imagem de enclosure ou media:content
             image = ""
             enc = item.find("enclosure")
             if enc and enc.get("url"):
@@ -276,10 +291,11 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
                 if media and media.get("url"):
                     image = media["url"]
             
-            # NOVIDADE: Se não achou imagem no feed, tenta buscar no site da notícia
-            if not image and link:
-                log.info(f"  RSS sem imagem para '{title[:30]}...', buscando fallback...")
-                image = _fetch_fallback_image(link, verify=verify)
+            # Se faltar imagem ou resumo, tenta buscar no site
+            if (not image or not summary) and link:
+                fb = _fetch_fallback_data(link, verify=verify)
+                if not image: image = fb["image"]
+                if not summary: summary = fb["summary"]
 
             entries.append({
                 "title": title, "link": link, "date": date, 
@@ -300,8 +316,10 @@ def fetch_rss(rss_url, filter_keywords=None, max_items=30, verify=True):
             if link_img and link_img.get("href"):
                 image = link_img["href"]
             
-            if not image and link:
-                image = _fetch_fallback_image(link, verify=verify)
+            if (not image or not summary) and link:
+                fb = _fetch_fallback_data(link, verify=verify)
+                if not image: image = fb["image"]
+                if not summary: summary = fb["summary"]
 
             entries.append({
                 "title": title, "link": link, "date": date, 
