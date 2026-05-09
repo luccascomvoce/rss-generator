@@ -5,33 +5,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RSS Generator — Feeds disponíveis</title>
   <style>
-    body { font-family: sans-serif; max-width: 700px; margin: 2rem auto; padding: 0 1rem; color: #222; }
-    h1 { font-size: 1.4rem; }
-    ul { padding-left: 1.2rem; }
-    li { margin: .5rem 0; }
-    a { color: #016970; }
-    code { background: #f3f3f3; padding: 2px 6px; border-radius: 4px; font-size: .9em; }
-    footer { margin-top: 3rem; font-size: .8rem; color: #888; }
+    body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; color: #222; line-height: 1.5; }
+    h1 { font-size: 1.6rem; border-bottom: 2px solid #016970; padding-bottom: 0.5rem; }
+    h2 { font-size: 1.2rem; margin-top: 2rem; color: #444; }
+    ul { list-style: none; padding: 0; }
+    li { margin: .8rem 0; padding: 0.5rem; background: #f9f9f9; border-radius: 6px; border-left: 4px solid #016970; }
+    li:hover { background: #f0f7f8; }
+    a { color: #016970; text-decoration: none; font-weight: bold; }
+    a:hover { text-decoration: underline; }
+    .url { display: block; font-family: monospace; font-size: 0.85em; color: #666; margin-top: 4px; }
+    footer { margin-top: 4rem; font-size: .8rem; color: #888; text-align: center; border-top: 1px solid #eee; padding-top: 1rem; }
   </style>
 </head>
 <body>
-  <h1>📡 Feeds RSS disponíveis</h1>
-  <p>Gerado automaticamente via GitHub Actions. Atualizado a cada hora.</p>
-  <ul id="feeds">
-    <li><a href="prefeitura-blumenau.xml">Prefeitura de Blumenau — Notícias</a></li>
-    <li><a href="camara-blumenau.xml">Câmara de Blumenau — Notícias</a></li>
-    <li><a href="defesa-civil-noticias.xml">Defesa Civil SC — Notícias</a></li>
-    <li><a href="defesa-civil-blumenau.xml">Defesa Civil Blumenau — Notícias</a></li>
-    <li><a href="o-blumenauense.xml">O Blumenauense — Notícias</a></li>
-    <li><a href="mesorregional.xml">Mesorregional — Notícias</a></li>
-    <li><a href="o-municipio.xml">O Município — Notícias</a></li>
-    <li><a href="informe-blumenau.xml">Informe Blumenau — Notícias</a></li>
-    <li><a href="aj-noticias.xml">AJ Notícias — Blumenau</a></li>
-    <li><a href="samae.xml">SAMAE Blumenau — Notícias</a></li>
-    <li><a href="celesc.xml">Celesc — Notícias Blumenau</a></li>
-    <li><a href="portal-da-cidade.xml">Portal da Cidade — Blumenau</a></li>
+  <h1>📡 Feeds RSS — Blumenau e Região</h1>
+  <p>Feeds gerados automaticamente para monitoramento de notícias locais e serviços públicos.</p>
+
+  <h2>🏛️ Órgãos Públicos e Serviços</h2>
+  <ul>
+    <li><a href="prefeitura-blumenau.xml">Prefeitura de Blumenau</a> <span class="url">prefeitura-blumenau.xml</span></li>
+    <li><a href="camara-blumenau.xml">Câmara de Vereadores</a> <span class="url">camara-blumenau.xml</span></li>
+    <li><a href="samae.xml">SAMAE — Água e Saneamento</a> <span class="url">samae.xml</span></li>
+    <li><a href="defesa-civil-blumenau.xml">Defesa Civil Blumenau</a> <span class="url">defesa-civil-blumenau.xml</span></li>
+    <li><a href="celesc.xml">Celesc — Energia (Blumenau)</a> <span class="url">celesc.xml</span></li>
+    <li><a href="furb.xml">FURB — Universidade Regional</a> <span class="url">furb.xml</span></li>
   </ul>
-  <p>Adicione mais fontes criando um arquivo <code>.yml</code> em <code>sources/</code>. Veja o <a href="https://github.com/seu-usuario/rss-generator">README</a>.</p>
-  <footer>rss-generator · MIT License</footer>
+
+  <h2>🚨 Segurança e Defesa Civil (Estadual)</h2>
+  <ul>
+    <li><a href="pmsc-10bpm.xml">Polícia Militar — 10º BPM Blumenau</a> <span class="url">pmsc-10bpm.xml</span></li>
+    <li><a href="pcsc.xml">Polícia Civil SC — Notícias</a> <span class="url">pcsc.xml</span></li>
+    <li><a href="cbmsc.xml">Bombeiros SC — Notícias</a> <span class="url">cbmsc.xml</span></li>
+    <li><a href="defesa-civil-noticias.xml">Defesa Civil SC — Notícias</a> <span class="url">defesa-civil-noticias.xml</span></li>
+  </ul>
+
+  <h2>📰 Portais de Notícias</h2>
+  <ul>
+    <li><a href="o-blumenauense.xml">O Blumenauense</a> <span class="url">o-blumenauense.xml</span></li>
+    <li><a href="informe-blumenau.xml">Informe Blumenau</a> <span class="url">informe-blumenau.xml</span></li>
+    <li><a href="o-municipio.xml">O Município Blumenau</a> <span class="url">o-municipio.xml</span></li>
+    <li><a href="mesorregional.xml">Mesorregional</a> <span class="url">mesorregional.xml</span></li>
+    <li><a href="aj-noticias.xml">AJ Notícias</a> <span class="url">aj-noticias.xml</span></li>
+    <li><a href="portal-da-cidade.xml">Portal da Cidade — Blumenau</a> <span class="url">portal-da-cidade.xml</span></li>
+  </ul>
+
+  <footer>
+    <p>rss-generator · MIT License · <a href="https://github.com/luccascomvoce/rss-generator" style="font-weight: normal; font-size: 0.9em;">Ver código no GitHub</a></p>
+  </footer>
 </body>
 </html>
