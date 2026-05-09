@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>FURB — Notícias</title>
+    <link>https://www.furb.br/pt/noticias</link>
+    <description>Notícias da Universidade Regional de Blumenau</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 08 May 2026 20:23:31 +0000</lastBuildDate>
+    <item>
+      <title>Professores da FURB realizam intercâmbio sobre inteligência artificial na Alemanha</title>
+      <link>https://www.furb.br/pt/noticias/professores-da-furb-realizam-intercambio-sobre-inteligencia-artificial-na-alemanha</link>
+      <description>Entre os dias 20 e 24 de abril, os professores da FURB, Maurício Capobianco Lopes e Andreza Sartori, realizaram intercâmbio à Hochschule Offenburg, na Alemanha, com o objetivo de explorar as aplicações mais recentes da inteligência artificial em contextos científicos e educacionais.</description>
+      <guid isPermaLink="false">https://www.furb.br/pt/noticias/professores-da-furb-realizam-intercambio-sobre-inteligencia-artificial-na-alemanha</guid>
+      <enclosure url="https://www.furb.br/sites/default/files/styles/media_library/public/2026-05/Capa%20Not%C3%ADcias%20-%202026-05-08T170650.504.png?itok=GNzsbgYS" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Aug 2026 17:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FURB assina convênio com município para realização de nova Pesquisa Anual de Demanda Turística</title>
+      <link>https://www.furb.br/pt/noticias/furb-assina-convenio-com-municipio-para-realizacao-de-nova-pesquisa-anual-de-demanda</link>
+      <description>Nesta sexta-feira, 8, um café da manhã na Via Germânica reuniu autoridades e representantes do trade turístico para o anúncio de ações voltadas ao fortalecimento do turismo em Blumenau. A Universidade Regional de Blumenau (FURB) esteve representada no evento pela reitora Marcia Sardá Espindola, que assinou um convênio com o município para a realização da segunda edição da Pesquisa Anual de Demanda Turística, que será conduzida por pesquisadores da universidade.</description>
+      <guid isPermaLink="false">https://www.furb.br/pt/noticias/furb-assina-convenio-com-municipio-para-realizacao-de-nova-pesquisa-anual-de-demanda</guid>
+      <enclosure url="https://www.furb.br/sites/default/files/styles/media_library/public/2026-05/Capa%20Not%C3%ADcias%20-%202026-05-08T171816.530.png?itok=PfW93v-t" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 05 Aug 2026 17:18:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

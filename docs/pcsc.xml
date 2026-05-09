@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Polícia Civil SC — Notícias</title>
+    <link>https://pc.sc.gov.br/?page_id=1258</link>
+    <description>Notícias e operações da Polícia Civil de Santa Catarina</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 08 May 2026 19:35:20 +0000</lastBuildDate>
+    <item>
+      <title>Em Fortaleza, Polícia Civil prende autor de golpe do “Falso Advogado” que causou prejuízo aproximado de R$ 750 mil à idosa de Florianópolis</title>
+      <link>https://pc.sc.gov.br/?p=39016</link>
+      <description>Em Fortaleza, Polícia Civil prende autor de golpe do “Falso Advogado” que causou prejuízo aproximado de R$ 750 mil à idosa de Florianópolis A Polícia</description>
+      <guid isPermaLink="false">https://pc.sc.gov.br/?p=39016</guid>
+      <enclosure url="https://pc.sc.gov.br//wp-content/uploads/2025/05/54556333709_8b72d1c43b_c-e1761332681406.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
