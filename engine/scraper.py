@@ -33,6 +33,10 @@ def _clean_html(raw_html):
     content = html.unescape(content)
 
     # Usa BS4 para manipular o HTML
+    # Silencia o aviso 'MarkupResemblesLocator' verificando se há tags HTML
+    if "<" not in content or ">" not in content:
+        return content.strip()
+
     soup = BeautifulSoup(content, "lxml")
     
     # 1. Remove links de "Leia mais", "Read more" e similares por classe ou texto
@@ -65,12 +69,11 @@ def _clean_html(raw_html):
     return text.strip()
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible; rss-generator/1.0; "
-        "+https://github.com/seu-usuario/rss-generator)"
-    )
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
 }
-REQUEST_TIMEOUT = 15
+REQUEST_TIMEOUT = 30
 POLITE_DELAY = 1.5  # segundos entre requisições
 
 
