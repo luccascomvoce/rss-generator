@@ -1,0 +1,98 @@
+[
+  {
+    "id": "aj-noticias",
+    "title": "AJ Notícias — Blumenau",
+    "description": "Notícias locais filtradas por relevância para Blumenau",
+    "url": "aj-noticias.xml"
+  },
+  {
+    "id": "camara-blumenau",
+    "title": "Câmara de Blumenau — Notícias",
+    "description": "Notícias da Câmara Municipal de Blumenau",
+    "url": "camara-blumenau.xml"
+  },
+  {
+    "id": "cbmsc",
+    "title": "Bombeiros SC — Notícias",
+    "description": "Notícias e ocorrências do Corpo de Bombeiros Militar de Santa Catarina",
+    "url": "cbmsc.xml"
+  },
+  {
+    "id": "celesc",
+    "title": "Celesc — Notícias Blumenau",
+    "description": "Notícias da Celesc filtradas para Blumenau e Vale do Itajaí",
+    "url": "celesc.xml"
+  },
+  {
+    "id": "defesa-civil-blumenau",
+    "title": "Defesa Civil Blumenau — Notícias",
+    "description": "Notícias e avisos oficiais da Defesa Civil de Blumenau (via JSON)",
+    "url": "defesa-civil-blumenau.xml"
+  },
+  {
+    "id": "defesa-civil-noticias",
+    "title": "Defesa Civil SC — Notícias",
+    "description": "Notícias gerais da Secretaria de Estado da Proteção e Defesa Civil de Santa Catarina",
+    "url": "defesa-civil-noticias.xml"
+  },
+  {
+    "id": "furb",
+    "title": "FURB — Notícias",
+    "description": "Notícias da Universidade Regional de Blumenau",
+    "url": "furb.xml"
+  },
+  {
+    "id": "informe-blumenau",
+    "title": "Informe Blumenau — Notícias",
+    "description": "Notícias locais de Blumenau coletadas via Informe Blumenau",
+    "url": "informe-blumenau.xml"
+  },
+  {
+    "id": "mesorregional",
+    "title": "Mesorregional — Notícias de Blumenau",
+    "description": "Notícias de Blumenau e região coletadas via Mesorregional",
+    "url": "mesorregional.xml"
+  },
+  {
+    "id": "o-blumenauense",
+    "title": "O Blumenauense — Notícias de Blumenau",
+    "description": "Notícias locais filtradas para focar em Blumenau e seus bairros",
+    "url": "o-blumenauense.xml"
+  },
+  {
+    "id": "o-municipio",
+    "title": "O Município — Notícias de Blumenau",
+    "description": "Notícias da edição de Blumenau do jornal O Município",
+    "url": "o-municipio.xml"
+  },
+  {
+    "id": "pcsc",
+    "title": "Polícia Civil SC — Notícias",
+    "description": "Notícias e operações da Polícia Civil de Santa Catarina",
+    "url": "pcsc.xml"
+  },
+  {
+    "id": "pmsc-10bpm",
+    "title": "Polícia Militar Blumenau — 10º BPM",
+    "description": "Notícias e ocorrências do 10º Batalhão da Polícia Militar em Blumenau",
+    "url": "pmsc-10bpm.xml"
+  },
+  {
+    "id": "portal-da-cidade",
+    "title": "Portal da Cidade — Blumenau",
+    "description": "Notícias locais do Portal da Cidade Blumenau",
+    "url": "portal-da-cidade.xml"
+  },
+  {
+    "id": "prefeitura-blumenau",
+    "title": "Prefeitura de Blumenau — Notícias",
+    "description": "Notícias oficiais da Prefeitura Municipal de Blumenau",
+    "url": "prefeitura-blumenau.xml"
+  },
+  {
+    "id": "samae",
+    "title": "SAMAE Blumenau — Notícias",
+    "description": "Notícias e alertas de serviço do SAMAE Blumenau",
+    "url": "samae.xml"
+  }
+]
