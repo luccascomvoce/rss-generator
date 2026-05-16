@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 16 May 2026 13:32:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 15:23:29 +0000</lastBuildDate>
     <item>
-      <title>“Vem pro Parque” reúne atrações culturais, food trucks e serviços gratuitos neste sábado em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/54768/lvem-pro-parquer-reune-atracoes-culturais-food-trucks-e-servicos-gratuitos-neste-sabado-em-blumenau</link>
-      <description>Evento ocorre até às 20h no Parque Prefeito Carlos Curt Zadrozny e conta também com atendimentos do Prefeitura nos Bairros durante a manhã</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54768/lvem-pro-parquer-reune-atracoes-culturais-food-trucks-e-servicos-gratuitos-neste-sabado-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/54768/62b6e8148fda16a9abc872232124a0e3.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 16 May 2049 00:00:00 +0000</pubDate>
+      <title>Blumenau encerra Conferência Estadual da Advocacia Catarinense com mais de 5 mil participantes</title>
+      <link>https://ajnoticias.com.br/noticia/54772/blumenau-encerra-conferencia-estadual-da-advocacia-catarinense-com-mais-de-5-mil-participantes</link>
+      <description>Evento reuniu profissionais do Direito, estudantes e autoridades no Parque Vila Germânica durante dois dias de programação</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54772/blumenau-encerra-conferencia-estadual-da-advocacia-catarinense-com-mais-de-5-mil-participantes</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54772/981f6dd18dcc055178bd5c937d5e0d8e.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 16 May 2053 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Operação policial no bairro Garcia resulta em multas, veículos removidos e apreensão de arma falsa</title>
+      <link>https://ajnoticias.com.br/noticia/54776/operacao-policial-no-bairro-garcia-resulta-em-multas-veiculos-removidos-e-apreensao-de-arma-falsa</link>
+      <description>Ação realizada pela Polícia Militar abordou motoristas e reforçou a fiscalização na região</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54776/operacao-policial-no-bairro-garcia-resulta-em-multas-veiculos-removidos-e-apreensao-de-arma-falsa</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54776/b1e31970f408b20aef811afcee8ce27e.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
