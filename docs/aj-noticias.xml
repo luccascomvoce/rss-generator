@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 10:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 12:21:45 +0000</lastBuildDate>
     <item>
-      <title>Domingo começa com sol, mas termina com chance de temporais em Blumenau e região</title>
-      <link>https://ajnoticias.com.br/noticia/54774/domingo-comeca-com-sol-mas-termina-com-chance-de-temporais-em-blumenau-e-regiao</link>
-      <description>Pancadas de chuva com trovoadas devem atingir o Vale do Itajaí entre a tarde e a noite; há risco de chuva intensa em curto período</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54774/domingo-comeca-com-sol-mas-termina-com-chance-de-temporais-em-blumenau-e-regiao</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/54774/a31183e79d7fcb4ac836dbcaef62bfa1.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <title>Incêndio em apartamento deixa moradora ferida em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/54781/incendio-em-apartamento-deixa-moradora-ferida-em-blumenau</link>
+      <description>Fogo atingiu imóvel em prédio residencial na noite deste sábado</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54781/incendio-em-apartamento-deixa-moradora-ferida-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54781/03edb8d632c6fe45d41016f26cd69bd1.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 17 May 2035 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
