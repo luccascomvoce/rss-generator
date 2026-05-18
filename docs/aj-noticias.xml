@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 14:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:21:13 +0000</lastBuildDate>
     <item>
-      <title>Motorista perde o controle da direção e carro sai da pista em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/54785/motorista-perde-o-controle-da-direcao-e-sai-da-pista-em-blumenau</link>
-      <description>Acidente aconteceu na noite deste sábado 16, na Rua Hermann Huscher</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54785/motorista-perde-o-controle-da-direcao-e-sai-da-pista-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/54785/1c2668587806a9999fac6a54e0c53495.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 17 May 2043 00:00:00 +0000</pubDate>
+      <title>Segunda-feira é de céu fechado e chuva fraca em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/54795/segunda-feira-e-de-ceu-fechado-e-chuva-fraca-em-blumenau</link>
+      <description>Máximas não passam dos 19°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54795/segunda-feira-e-de-ceu-fechado-e-chuva-fraca-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54795/c8c3751f76b796e15ab2c994d815a83b.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
