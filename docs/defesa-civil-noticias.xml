@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 17:08:28 +0000</lastBuildDate>
     <item>
-      <title>Monitoramento Meteorológico SDC/SC 20/05 05:30</title>
-      <link>https://www.defesacivil.sc.gov.br/2026/05/20/monitoramento-meteorologico-sdc-sc-20-05-0530/</link>
-      <description>Figura: Imagem do satélite GOES-19, produto Nighttime Microphysics, às 05h140, horário local. Fonte: DSAT/CPTEC, adaptado por SDC/SC. Meteorologista: Jéssica Silva Monitoramento Meteorológico SDC/SC 20/05 05:30 A quarta-feira (20), vai começando…</description>
-      <guid isPermaLink="false">https://www.defesacivil.sc.gov.br/2026/05/20/monitoramento-meteorologico-sdc-sc-20-05-0530/</guid>
-      <enclosure url="https://www.defesacivil.sc.gov.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-20-052737.png" length="0" type="image/png"/>
+      <title>Monitoramento Meteorológico SDC/SC 20/05 13:15</title>
+      <link>https://www.defesacivil.sc.gov.br/2026/05/20/monitoramento-meteorologico-sdc-sc-20-05-1315/</link>
+      <description>Figura: Imagem do satélite GOES-19, canal visível, às 12h50, horário local. Fonte: SDC/SC. Meteorologista: Francine SaccoEstagiário: Brenndhom Cunha Monitoramento Meteorológico SDC/SC 20/05 13:15 A manhã desta quarta-feira (20), foi marcada…</description>
+      <guid isPermaLink="false">https://www.defesacivil.sc.gov.br/2026/05/20/monitoramento-meteorologico-sdc-sc-20-05-1315/</guid>
+      <enclosure url="https://www.defesacivil.sc.gov.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-20-131445.png" length="0" type="image/png"/>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
