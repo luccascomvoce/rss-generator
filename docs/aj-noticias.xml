@@ -7,14 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 22:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:08:39 +0000</lastBuildDate>
     <item>
-      <title>Evento sobre Luta Antimanicomial reúne oficinas, debates e passeata em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/54890/evento-sobre-luta-antimanicomial-reune-oficinas-debates-e-passeata-em-blumenau</link>
-      <description>Mobilização busca discutir os avanços e desafios da saúde mental no Brasil</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54890/evento-sobre-luta-antimanicomial-reune-oficinas-debates-e-passeata-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/54890/82ebc1241b8b308386079444c08137f2.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 20 May 2034 00:00:00 +0000</pubDate>
+      <title>Quinta-feira tem frio de manhã e sol ao longo do dia em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/54897/quinta-feira-tem-frio-de-manha-e-sol-ao-longo-do-dia-em-blumenau</link>
+      <description>Máximas chegam a 21°C e mínimas caem para até 9°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54897/quinta-feira-tem-frio-de-manha-e-sol-ao-longo-do-dia-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54897/274842f58fa8d722d686241f9104317e.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Samae conserta vazamento no Centro de Blumenau nesta quinta-feira</title>
+      <link>https://ajnoticias.com.br/noticia/54898/samae-conserta-vazamento-no-centro-de-blumenau-nesta-quinta-feira</link>
+      <description>Abastecimento pode ser afetado na Rua 15 de Novembro e transversais até as 11h.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54898/samae-conserta-vazamento-no-centro-de-blumenau-nesta-quinta-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54898/fdb87bbf52353423fd74c8f47e42db8e.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mulher é presa com crack no bairro Vorstadt e cão farejador encontra mais 41 pedras escondidas em terreno</title>
+      <link>https://ajnoticias.com.br/noticia/54899/mulher-e-presa-com-crack-no-bairro-vorstadt-e-cao-farejador-encontra-mais-41-pedras-escondidas-em-terreno</link>
+      <description>Ocorrência foi registrada na noite desta quarta-feira em Blumenau.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54899/mulher-e-presa-com-crack-no-bairro-vorstadt-e-cao-farejador-encontra-mais-41-pedras-escondidas-em-terreno</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54899/ff0257fa8b65b1becc610ef22166af1a.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
