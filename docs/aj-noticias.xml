@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 12:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:33:00 +0000</lastBuildDate>
     <item>
-      <title>Blumenau terá domingo nublado e chance de chuva fraca isolada</title>
-      <link>https://ajnoticias.com.br/noticia/54987/blumenau-tera-domingo-nublado-e-chance-de-chuva-fraca-isolada</link>
-      <description>Presença de cavado mantém condição para instabilidade no município.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54987/blumenau-tera-domingo-nublado-e-chance-de-chuva-fraca-isolada</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/54987/be0c5cf95c47dd599b69d12a997696ca.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conserto de vazamento afeta abastecimento de água no Centro de Blumenau neste domingo</title>
-      <link>https://ajnoticias.com.br/noticia/54988/conserto-de-vazamento-afeta-abastecimento-no-centro-de-blumenau-neste-domingo</link>
-      <description>O abastecimento deve ser normalizado gradualmente ao longo da tarde.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54988/conserto-de-vazamento-afeta-abastecimento-no-centro-de-blumenau-neste-domingo</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/54988/d0f3ae16dd9fb4c1560aece9d54df27e.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <title>Dois homens são presos por violência doméstica em menos de cinco horas em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/54990/dois-homens-sao-presos-por-violencia-domestica-em-menos-de-cinco-horas-em-blumenau</link>
+      <description>Ocorrências foram registradas nos bairros Escola Agrícola e Testo Salto neste sábado.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/54990/dois-homens-sao-presos-por-violencia-domestica-em-menos-de-cinco-horas-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/54990/7858415efad45c8a2ee0bfc2980d59a0.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 24 May 2038 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
