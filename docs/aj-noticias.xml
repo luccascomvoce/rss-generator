@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 30 May 2026 14:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:29:58 +0000</lastBuildDate>
     <item>
-      <title>Motorista fica preso às ferragens após colidir contra poste na Via Expressa, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55233/motorista-fica-preso-as-ferragens-apos-colidir-contra-poste-na-via-expressa-em-blumenau</link>
-      <description>Jovem de 22 anos foi resgatado pelos bombeiros e encaminhado ao Hospital Santo Antônio pelo SAMU</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55233/motorista-fica-preso-as-ferragens-apos-colidir-contra-poste-na-via-expressa-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55233/c1347eec7420f96b9819596aae400b07.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <title>Massa de ar seco garante domingo de sol e tempo firme em Blumenau e região</title>
+      <link>https://ajnoticias.com.br/noticia/55245/massa-de-ar-seco-garante-domingo-de-sol-e-tempo-firme-em-blumenau-e-regiao</link>
+      <description>Durante a tarde, os termômetros devem variar entre 24°C e 26°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55245/massa-de-ar-seco-garante-domingo-de-sol-e-tempo-firme-em-blumenau-e-regiao</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55245/0c5b4b5af06be89550bb7843dd9dbba7.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 31 May 2038 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Após denúncia, PM apreende adolescentes e drogas no bairro Fidélis, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55247/apos-denuncia-pm-apreende-adolescentes-e-drogas-no-bairro-fidelis-em-blumenau</link>
+      <description>Ação contou com apoio do Canil do 10º Batalhão da Polícia Militar.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55247/apos-denuncia-pm-apreende-adolescentes-e-drogas-no-bairro-fidelis-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55247/2b7529369a30344c5732f04d6df08721.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
