@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 10 Jun 2026 22:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 13:19:34 +0000</lastBuildDate>
     <item>
-      <title>Obras avançam e Rua Guilherme Scharf, em Blumenau, se prepara para receber asfalto</title>
-      <link>https://ajnoticias.com.br/noticia/55477/obras-avancam-e-rua-guilherme-scharf-em-blumenau-se-prepara-para-receber-asfalto</link>
-      <description>Via ficou interditada nesta quarta-feira para conclusão da preparação da base.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55477/obras-avancam-e-rua-guilherme-scharf-em-blumenau-se-prepara-para-receber-asfalto</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55477/b233e636e4582d0508c3e5762a07d607.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Quinta-feira é de céu fechado e chuva fraca em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55481/quinta-feira-e-de-ceu-fechado-e-chuva-fraca-em-blumenau</link>
+      <description>Máximas ficam entre 19°C e 21°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55481/quinta-feira-e-de-ceu-fechado-e-chuva-fraca-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55481/b0e816c4f530e52424e06acecc64f42b.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>68 adolescentes se formam no Programa de Iniciação ao Trabalho em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55482/68-adolescentes-se-formam-no-programa-de-iniciacao-ao-trabalho-em-blumenau</link>
+      <description>Antes mesmo da formatura, 40 já foram encaminhados para programas de aprendizagem e três conquistaram emprego formal.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55482/68-adolescentes-se-formam-no-programa-de-iniciacao-ao-trabalho-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55482/92df01f2a9be5bbfc883fcc6992f0ad5.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 11 Jun 2050 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
