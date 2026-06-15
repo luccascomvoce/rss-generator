@@ -7,22 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 14:08:28 +0000</lastBuildDate>
     <item>
-      <title>Trio armado assalta motorista de aplicativo, faz transferências via PIX e rouba carro em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55519/trio-armado-assalta-motorista-de-aplicativo-faz-transferencias-via-pix-e-rouba-carro-em-blumenau</link>
-      <description>O veículo foi localizado abandonado pouco tempo depois, também no bairro Velha Grande.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55519/trio-armado-assalta-motorista-de-aplicativo-faz-transferencias-via-pix-e-rouba-carro-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55519/84d4e2edb91f32937789cb0adcffe7d9.webp" length="0" type="image/webp"/>
+      <title>Segunda-feira é de céu fechado e frio em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55525/segunda-feira-e-de-ceu-fechado-e-frio-em-blumenau</link>
+      <description>Máximas não passam dos 18°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55525/segunda-feira-e-de-ceu-fechado-e-frio-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55525/111bfc6f525dd80a387637c8b0fc279c.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Santa Catarina realizou 345 transplantes de rim em 2025; Blumenau lidera procedimentos</title>
-      <link>https://ajnoticias.com.br/noticia/55521/santa-catarina-realizou-345-transplantes-de-rim-em-2025-blumenau-lidera-procedimentos</link>
-      <description>Estado mantém índices de referência nacional em doação de órgãos, enquanto 891 pessoas seguem na fila de espera.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55521/santa-catarina-realizou-345-transplantes-de-rim-em-2025-blumenau-lidera-procedimentos</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55521/07905c157e49ea4cc1d86b8dbe5c81c0.webp" length="0" type="image/webp"/>
+      <title>Homem é flagrado com maconha em moto durante ronda no bairro Fortaleza, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55526/homem-e-flagrado-com-maconha-em-moto-durante-ronda-no-bairro-fortaleza-em-blumenau</link>
+      <description>Mais drogas foram encontradas na residência do suspeito.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55526/homem-e-flagrado-com-maconha-em-moto-durante-ronda-no-bairro-fortaleza-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55526/b8dea2d14eb54ac9cb3ba908c3fa583d.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carro bate em muro do Aeroporto Regional de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55527/carro-bate-em-muro-do-aeroporto-regional-de-blumenau</link>
+      <description>Acidente foi registrado na tarde deste domingo na Rua Franz Volles com Ernst Kastner.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55527/carro-bate-em-muro-do-aeroporto-regional-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55527/eb6e3c84f369d9dfeee99c28bc720fef.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Câmara de Blumenau realiza audiência pública sobre o El Niño nesta terça-feira</title>
+      <link>https://ajnoticias.com.br/noticia/55528/camara-de-blumenau-realiza-audiencia-publica-sobre-o-el-nino-nesta-terca-feira</link>
+      <description>Debate acontece às 19h no Plenário e será transmitido pela TV Legislativa.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55528/camara-de-blumenau-realiza-audiencia-publica-sobre-o-el-nino-nesta-terca-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55528/238e21a09dea5a442c2ddacebcb73e7b.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 15 Jun 2059 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
