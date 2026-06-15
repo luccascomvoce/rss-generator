@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:31:57 +0000</lastBuildDate>
     <item>
-      <title>Blumenau abre inscrições para a 10ª Caminhada das Nascentes; saiba como participar</title>
-      <link>https://ajnoticias.com.br/noticia/55529/blumenau-abre-inscricoes-para-a-10o-caminhada-das-nascentes-saiba-como-participar</link>
-      <description>Evento gratuito ocorre no dia 28 de junho e terá percurso de 10 quilômetros em área de preservação</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55529/blumenau-abre-inscricoes-para-a-10o-caminhada-das-nascentes-saiba-como-participar</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55529/8f4350b201dfedb77681700a161323f8.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Sem novos casos, Blumenau mantém nove registros de dengue em 2026</title>
+      <link>https://ajnoticias.com.br/noticia/55531/sem-novos-casos-blumenau-mantem-nove-registros-de-dengue-em-2026</link>
+      <description>Secretaria reforça orientações para eliminar focos do mosquito Aedes aegypti.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55531/sem-novos-casos-blumenau-mantem-nove-registros-de-dengue-em-2026</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55531/d843fd7fb2928fcbcdbe9e9ca92bfe6e.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manutenção do Samae pode afetar abastecimento em seis bairros de Blumenau nesta terça-feira</title>
+      <link>https://ajnoticias.com.br/noticia/55532/manutencao-do-samae-pode-afetar-abastecimento-em-seis-bairros-de-blumenau-nesta-terca-feira</link>
+      <description>Caminhões-pipa serão utilizados para minimizar os impactos durante a manutenção programada.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55532/manutencao-do-samae-pode-afetar-abastecimento-em-seis-bairros-de-blumenau-nesta-terca-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55532/be0fe67c9ba50c6abcf09258fbb00859.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 15 Jun 2035 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
