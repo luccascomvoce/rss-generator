@@ -7,14 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 15 Jun 2026 21:51:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 13:47:24 +0000</lastBuildDate>
     <item>
-      <title>Homem esfaqueado pela esposa mentiu para polícia e inventou tentativa de assalto em Blumenau, aponta investigação</title>
-      <link>https://ajnoticias.com.br/noticia/55550/homem-esfaqueado-pela-esposa-mentiu-para-policia-e-inventou-tentativa-de-assalto-em-blumenau-aponta-investigacao</link>
-      <description>Com o esclarecimento do caso, o homem deverá responder pelo crime de falsa comunicação de crime.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55550/homem-esfaqueado-pela-esposa-mentiu-para-policia-e-inventou-tentativa-de-assalto-em-blumenau-aponta-investigacao</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55550/36d59ab71a59f67dd99b999ca55afbd0.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Blumenau tem nuvens de manhã e sol ao longo da terça-feira</title>
+      <link>https://ajnoticias.com.br/noticia/55554/blumenau-tem-nuvens-de-manha-e-sol-ao-longo-da-terca-feira</link>
+      <description>Máximas chegam a 22°C e mínimas caem para até 11°C à noite.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55554/blumenau-tem-nuvens-de-manha-e-sol-ao-longo-da-terca-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55554/b56c99c56504b6e003ef9741c9f03267.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Motociclista morre após colidir contra poste na Rua Progresso, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55556/motociclista-morre-apos-colidir-contra-poste-na-rua-progresso-em-blumenau</link>
+      <description>Acidente foi registrado por volta das 6h10 desta terça-feira.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55556/motociclista-morre-apos-colidir-contra-poste-na-rua-progresso-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55556/d009f3560650671f70fba9e31369022e.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Princípio de incêndio em equipamento de refrigeração é controlado por funcionário no Celpa Defumados, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55558/principio-de-incendio-em-equipamento-de-refrigeracao-e-controlado-por-funcionario-em-supermercado-de-blumenau</link>
+      <description>Ocorrência foi registrada na noite desta segunda-feira na Rua Dois de Setembro.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55558/principio-de-incendio-em-equipamento-de-refrigeracao-e-controlado-por-funcionario-em-supermercado-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55558/3876a63a8c33429d1096adea0d5a3eeb.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem é preso após ameaçar irmã idosa no Centro de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55559/homem-e-preso-apos-ameacar-irma-idosa-no-centro-de-blumenau</link>
+      <description>Mulher de 70 anos relatou à Polícia Militar que vinha sendo ameaçada pelo próprio irmão</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55559/homem-e-preso-apos-ameacar-irma-idosa-no-centro-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55559/642f8c6520920cbdc011ebaf9ea91e96.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 16 Jun 2055 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
