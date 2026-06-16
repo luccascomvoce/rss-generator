@@ -7,38 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 19:14:34 +0000</lastBuildDate>
     <item>
-      <title>Blumenau tem nuvens de manhã e sol ao longo da terça-feira</title>
-      <link>https://ajnoticias.com.br/noticia/55554/blumenau-tem-nuvens-de-manha-e-sol-ao-longo-da-terca-feira</link>
-      <description>Máximas chegam a 22°C e mínimas caem para até 11°C à noite.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55554/blumenau-tem-nuvens-de-manha-e-sol-ao-longo-da-terca-feira</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55554/b56c99c56504b6e003ef9741c9f03267.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Identificado motociclista que morreu em acidente na manhã desta terça-feira na rua Progresso em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55561/identificado-motociclista-que-morreu-em-acidente-na-manha-desta-terca-feira-na-rua-progresso-em-blumenau</link>
+      <description>Rodrigo Mattos de Souza, de 38 anos, seguia para o trabalho quando sofreu o acidente</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55561/identificado-motociclista-que-morreu-em-acidente-na-manha-desta-terca-feira-na-rua-progresso-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55561/791e3e823fd6c6aec367ae9f31136e16.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Motociclista morre após colidir contra poste na Rua Progresso, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55556/motociclista-morre-apos-colidir-contra-poste-na-rua-progresso-em-blumenau</link>
-      <description>Acidente foi registrado por volta das 6h10 desta terça-feira.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55556/motociclista-morre-apos-colidir-contra-poste-na-rua-progresso-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55556/d009f3560650671f70fba9e31369022e.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Princípio de incêndio em equipamento de refrigeração é controlado por funcionário no Celpa Defumados, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55558/principio-de-incendio-em-equipamento-de-refrigeracao-e-controlado-por-funcionario-em-supermercado-de-blumenau</link>
-      <description>Ocorrência foi registrada na noite desta segunda-feira na Rua Dois de Setembro.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55558/principio-de-incendio-em-equipamento-de-refrigeracao-e-controlado-por-funcionario-em-supermercado-de-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55558/3876a63a8c33429d1096adea0d5a3eeb.webp" length="0" type="image/webp"/>
+      <title>Procon Móvel atende consumidores no bairro Passo Manso, em Blumenau, nesta quarta-feira</title>
+      <link>https://ajnoticias.com.br/noticia/55571/procon-movel-atende-consumidores-no-bairro-passo-manso-em-blumenau-nesta-quarta-feira</link>
+      <description>Os atendimentos ocorrem sempre às quartas-feiras, em dois períodos: das 10h às 12h e das 13h às 15h.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55571/procon-movel-atende-consumidores-no-bairro-passo-manso-em-blumenau-nesta-quarta-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55571/75fa886a513691ff1ff147773a862694.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homem é preso após ameaçar irmã idosa no Centro de Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55559/homem-e-preso-apos-ameacar-irma-idosa-no-centro-de-blumenau</link>
-      <description>Mulher de 70 anos relatou à Polícia Militar que vinha sendo ameaçada pelo próprio irmão</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55559/homem-e-preso-apos-ameacar-irma-idosa-no-centro-de-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55559/642f8c6520920cbdc011ebaf9ea91e96.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 16 Jun 2055 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
