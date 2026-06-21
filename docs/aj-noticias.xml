@@ -7,22 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 20 Jun 2026 14:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:41:25 +0000</lastBuildDate>
     <item>
-      <title>Sábado será de chuva persistente e temperaturas baixas em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55689/sabado-sera-de-chuva-persistente-e-temperaturas-baixas-em-blumenau</link>
-      <description>Frente fria mantém o tempo instável ao longo do dia; melhora está prevista para o domingo</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55689/sabado-sera-de-chuva-persistente-e-temperaturas-baixas-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55689/29a0add7e14f414c226040cf3130f2bf.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Sol predomina em Blumenau após manhã de nevoeiro; termômetros podem marcar até 22°C</title>
+      <link>https://ajnoticias.com.br/noticia/55705/sol-predomina-em-blumenau-apos-manha-de-nevoeiro-termometros-podem-marcar-ate-22dc</link>
+      <description>Presença de nevoeiro em Blumenau deve persistir durante parte da manhã.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55705/sol-predomina-em-blumenau-apos-manha-de-nevoeiro-termometros-podem-marcar-ate-22dc</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55705/297a1b33abbd80d4c3fc909ea7dff534.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 21 Jun 2049 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dupla rouba celulares e tranca vítimas em banheiro em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55693/dupla-rouba-celulares-e-tranca-vitimas-em-banheiro-em-blumenau</link>
-      <description>Crime foi registrado no bairro Itoupava Central nesta sexta-feira</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55693/dupla-rouba-celulares-e-tranca-vitimas-em-banheiro-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55693/e2af5196b7ea70d14c2964879fc91595.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Teste do bafômetro aponta 0,81 mg/l e motorista é preso após acidente em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55706/teste-do-bafometro-aponta-0-81-mg-l-e-motorista-e-preso-apos-acidente-em-blumenau</link>
+      <description>Condutor perdeu o controle do carro, subiu na calçada e atingiu um poste no bairro Vila Nova.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55706/teste-do-bafometro-aponta-0-81-mg-l-e-motorista-e-preso-apos-acidente-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55706/9cbd4b762c8329dc1d503fc73d84d25d.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
