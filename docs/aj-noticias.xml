@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 22 Jun 2026 22:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:58:44 +0000</lastBuildDate>
     <item>
-      <title>Doadores de sangue de Gaspar terão transporte gratuito para o Hemosc de Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55745/gaspar-tera-transporte-gratuito-para-doadores-de-sangue-a-partir-de-julho</link>
-      <description>O serviço será oferecido sempre no último sábado de cada mês</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55745/gaspar-tera-transporte-gratuito-para-doadores-de-sangue-a-partir-de-julho</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55745/7536d728f9a4793f68ac273e126f4f5d.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <title>Terça-feira é de sol e frio em Blumenau, com temperaturas caindo ainda mais à noite</title>
+      <link>https://ajnoticias.com.br/noticia/55753/terca-feira-e-de-sol-e-frio-em-blumenau-com-temperaturas-caindo-ainda-mais-a-noite</link>
+      <description>Máximas ficam entre 16°C e 18°C e mínimas chegam a 8°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55753/terca-feira-e-de-sol-e-frio-em-blumenau-com-temperaturas-caindo-ainda-mais-a-noite</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55753/a44caebdb9cce692485831cd144bac1b.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Idosa morre após grave atropelamento no bairro Valparaíso, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55759/idosa-morre-apos-grave-atropelamento-no-bairro-valparaiso-em-blumenau</link>
+      <description>Helga Berti, de 79 anos, não resistiu aos ferimentos. Sepultamento acontece nesta terça-feira, às 16h.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55759/idosa-morre-apos-grave-atropelamento-no-bairro-valparaiso-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55759/77a3464c52914092fcdbde3b806eebbc.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
