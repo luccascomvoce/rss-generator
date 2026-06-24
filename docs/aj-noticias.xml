@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 23 Jun 2026 21:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:46:14 +0000</lastBuildDate>
     <item>
-      <title>“A moto utilizada na fuga está no nome do suspeito”, esclarece major da PM sobre tentativa de homicídio no bairro Ponta Aguda, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55779/qa-moto-utilizada-na-fuga-esta-no-nome-do-suspeitoq-esclarece-major-da-pm-sobre-tentativa-de-homicidio-no-bairro-ponta-aguda-em-blumenau</link>
-      <description>Major Siedschlag informou que suspeito reconhecido pela esposa da vítima também é proprietário da motocicleta usada no crime.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55779/qa-moto-utilizada-na-fuga-esta-no-nome-do-suspeitoq-esclarece-major-da-pm-sobre-tentativa-de-homicidio-no-bairro-ponta-aguda-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55779/38b029ad1d9bbdc438b005a6e2919e36.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 23 Jun 2039 00:00:00 +0000</pubDate>
+      <title>Frio intenso marca a quarta-feira em Blumenau, com mínimas podendo chegar a 5°C</title>
+      <link>https://ajnoticias.com.br/noticia/55789/frio-intenso-marca-a-quarta-feira-em-blumenau-com-minimas-podendo-chegar-a-5dc</link>
+      <description>Apesar do sol ao longo do dia, temperaturas não passam dos 17°C</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55789/frio-intenso-marca-a-quarta-feira-em-blumenau-com-minimas-podendo-chegar-a-5dc</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55789/85d6cc6e3eb5088fa50f3c9253f23aaa.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem é executado dentro de casa por encapuzado no bairro Progresso, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55793/homem-e-executado-dentro-de-casa-por-encapuzado-no-bairro-progresso-em-blumenau</link>
+      <description>Vítima estava em prisão albergue e tinha 23 registros policiais, incluindo tráfico de drogas.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55793/homem-e-executado-dentro-de-casa-por-encapuzado-no-bairro-progresso-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55793/cd5c05f5350339f91b2c04e5686f482b.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
