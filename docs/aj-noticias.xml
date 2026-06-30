@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:36:49 +0000</lastBuildDate>
     <item>
-      <title>Terça-feira é de chuva intermitente e risco de temporais em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/55938/terca-feira-e-de-chuva-intermitente-e-risco-de-temporais-em-blumenau</link>
-      <description>Máximas não passam dos 20°C e há risco de chuva intensa entre a tarde e a noite.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55938/terca-feira-e-de-chuva-intermitente-e-risco-de-temporais-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/55938/656b3f4ae71715542c5fd90909fc3f34.webp" length="0" type="image/webp"/>
+      <title>Defesa Civil registra dez ocorrências de alagamentos e deslizamentos em Blumenau nesta terça-feira</title>
+      <link>https://ajnoticias.com.br/noticia/55941/defesa-civil-registra-dez-ocorrencias-de-alagamentos-e-deslizamentos-em-blumenau-nesta-terca-feira</link>
+      <description>Carro caiu em cratera aberta na Via na Rua Regente Feijó, no bairro Itoupava Seca.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55941/defesa-civil-registra-dez-ocorrencias-de-alagamentos-e-deslizamentos-em-blumenau-nesta-terca-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55941/5883b8072c25c0ccf005ca4afe2d65ce.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rompimento de adutora afeta abastecimento de água em sete bairros de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/55943/rompimento-de-adutora-afeta-abastecimento-de-agua-em-sete-bairros-de-blumenau</link>
+      <description>Samae realiza reparo na Rua Pomerode nesta terça-feira; previsão é normalizar o fornecimento ao longo do dia</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/55943/rompimento-de-adutora-afeta-abastecimento-de-agua-em-sete-bairros-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/55943/5911d1a3d058845bfaca33898fb875cf.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
