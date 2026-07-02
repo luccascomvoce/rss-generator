@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Jul 2026 16:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:26:40 +0000</lastBuildDate>
     <item>
-      <title>Água com turbidez elevada reduz produção nas ETAs e afeta abastecimento em bairros de Blumenau</title>
-      <link>https://oblumenauense.com.br/agua-com-turbidez-elevada-reduz-producao-nas-etas-e-afeta-abastecimento-em-bairros-de-blumenau/</link>
-      <description>Paralisação parcial para limpeza de filtros e queda na produção de água provocam desabastecimento; normalização varia conforme a região da cidade.</description>
-      <guid isPermaLink="false">https://oblumenauense.com.br/agua-com-turbidez-elevada-reduz-producao-nas-etas-e-afeta-abastecimento-em-bairros-de-blumenau/</guid>
-      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2022/12/agua_rio_amarela_1-12-22.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 02 Jul 2026 15:22:40 +0000</pubDate>
+      <title>Câmara aprova projeto que amplia acesso ao transporte escolar gratuito em Blumenau</title>
+      <link>https://oblumenauense.com.br/camara-aprova-projeto-que-amplia-acesso-ao-transporte-escolar-gratuito-em-blumenau/</link>
+      <description>Proposta permite benefício a alunos do 1º ao 9º ano mesmo para quem mora a menos de 3 quilômetros da escola, desde que cumpra critérios previstos em lei.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/camara-aprova-projeto-que-amplia-acesso-ao-transporte-escolar-gratuito-em-blumenau/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/07/transporte_escolar_BNU_2-07-26_02.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Museu da Cerveja de Blumenau prepara visita mais acessível para 2026</title>
+      <link>https://oblumenauense.com.br/museu-da-cerveja-de-blumenau-prepara-visita-mais-acessivel-para-2026/</link>
+      <description>Braile, libras, mesa tátil e conteúdo em quatro idiomas vão ampliar a experiência dos visitantes.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/museu-da-cerveja-de-blumenau-prepara-visita-mais-acessivel-para-2026/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2023/09/Museu-Cerveja-BNU_1-02-323.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 02 Jul 2026 16:42:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
