@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:29:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 13:53:52 +0000</lastBuildDate>
     <item>
-      <title>Sexta-feira tem céu nublado e chuvisco em Blumenau, com frio chegando à noite</title>
-      <link>https://ajnoticias.com.br/noticia/56048/sexta-feira-tem-ceu-nublado-e-chuvisco-em-blumenau-com-frio-chegando-a-noite</link>
-      <description>Máximas ficam entre 18°C e 20°C e mínimas podem cair para até 11°C ao final da noite.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56048/sexta-feira-tem-ceu-nublado-e-chuvisco-em-blumenau-com-frio-chegando-a-noite</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56048/7e679114353f11c055afbcd1b0091a65.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Fim de semana em Blumenau terá maratona, feira, Colmeia e atrações culturais</title>
+      <link>https://ajnoticias.com.br/noticia/56051/fim-de-semana-em-blumenau-tera-maratona-feira-colmeia-e-atracoes-culturais</link>
+      <description>Programação entre sexta-feira e domingo reúne corrida, música, gastronomia, teatro e eventos gratuitos</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56051/fim-de-semana-em-blumenau-tera-maratona-feira-colmeia-e-atracoes-culturais</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56051/d4e38a1b667280c8242ff6d9b433bd40.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 03 Jul 2058 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem é preso com arma e crack após denúncia de disparos em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/56054/homem-e-preso-com-arma-e-crack-apos-denuncia-de-disparos-em-blumenau</link>
+      <description>Suspeito tentou fugir e resistiu à prisão durante abordagem da Polícia Militar no bairro Velha Grande</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56054/homem-e-preso-com-arma-e-crack-apos-denuncia-de-disparos-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56054/5683a8b695e2eed73de8d80ccb77f0b3.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
