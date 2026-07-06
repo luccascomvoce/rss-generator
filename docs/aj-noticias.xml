@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 18:52:40 +0000</lastBuildDate>
     <item>
-      <title>Segunda-feira tem céu nublado e chuva a partir da tarde em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/56095/segunda-feira-tem-ceu-nublado-e-chuva-a-partir-da-tarde-em-blumenau</link>
-      <description>Máximas ficam entre 18°C e 20°C e mínimas caem para até 11°C.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56095/segunda-feira-tem-ceu-nublado-e-chuva-a-partir-da-tarde-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56095/ec2cdb4c8ebe23d58a9f775c1f0e8033.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 06 Jul 2044 00:00:00 +0000</pubDate>
+      <title>Instituto Sonho em Viver promove bazar com peças a partir de R$ 3 em Blumenau; saiba quando</title>
+      <link>https://ajnoticias.com.br/noticia/56108/instituto-sonho-em-viver-promove-bazar-com-pecas-a-partir-de-r-3-em-blumenau-saiba-quando</link>
+      <description>Evento será realizado no Clube Vasto Verde, com produtos de marcas conhecidas e toda a renda destinada às ações sociais desenvolvidas pelo instituto.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56108/instituto-sonho-em-viver-promove-bazar-com-pecas-a-partir-de-r-3-em-blumenau-saiba-quando</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56108/e837fab934c4845e4fc9d37f488f1322.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 06 Jul 2050 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Com investimento de R$ 1,4 milhão, Blumenau anuncia pavimentação de mais três ruas; veja quais são</title>
+      <link>https://ajnoticias.com.br/noticia/56109/com-investimento-de-r-1-4-milhao-blumenau-anuncia-pavimentacao-de-mais-tres-ruas-veja-quais-sao</link>
+      <description>Melhorias contemplam mais de 800 metros de vias e serão executadas com recursos de emendas parlamentares estaduais.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56109/com-investimento-de-r-1-4-milhao-blumenau-anuncia-pavimentacao-de-mais-tres-ruas-veja-quais-sao</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56109/0837af3d01a3a203f3a524c277dee59e.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
