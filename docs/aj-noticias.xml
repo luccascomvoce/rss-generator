@@ -7,38 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Jul 2026 13:53:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:59:50 +0000</lastBuildDate>
     <item>
-      <title>Quarta-feira em Blumenau segue com tempo firme, sol e frio</title>
-      <link>https://ajnoticias.com.br/noticia/56153/quarta-feira-em-blumenau-segue-com-tempo-firme-sol-e-frio</link>
-      <description>Máximas chegam a 21°C e mínimas podem cair para até 6°C.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56153/quarta-feira-em-blumenau-segue-com-tempo-firme-sol-e-frio</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56153/6958bfe2f5b37feec16ccaa26a24c9ff.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ciclista morre após ser atropelado por carreta na Rua Doutor Pedro Zimmermann, no bairro Itoupavazinha</title>
-      <link>https://ajnoticias.com.br/noticia/56155/ciclista-morre-apos-ser-atropelado-por-carreta-na-rua-gustavo-henschel-no-bairro-itoupavazinha</link>
-      <description>Antonio Carlos Guete, de 65 anos, estava a caminho do trabalho quando foi atingido.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56155/ciclista-morre-apos-ser-atropelado-por-carreta-na-rua-gustavo-henschel-no-bairro-itoupavazinha</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56155/4c2a76c1c1f89a81fa6eacbdba887531.webp" length="0" type="image/webp"/>
+      <title>Tragédia no trânsito: Em 1 mês e meio, dois irmãos perdem a vida, na mesma rodovia em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/56159/tragedia-no-transito-em-1-mes-e-meio-dois-irmaos-perdem-a-vida-na-mesma-rodovia-em-blumenau</link>
+      <description>Paulo Flavio Guete morreu em maio e Antonio Carlos Guete em julho, ambos na SC-108, a Rua Dr. Pedro Zimmermann.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56159/tragedia-no-transito-em-1-mes-e-meio-dois-irmaos-perdem-a-vida-na-mesma-rodovia-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56159/7a4bcb700e7837f65567befcf00b9ee2.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samae conserta rompimento de adutora no bairro Fidélis nesta quarta-feira</title>
-      <link>https://ajnoticias.com.br/noticia/56157/samae-conserta-rompimento-de-adutora-no-bairro-fidelis-nesta-quarta-feira</link>
-      <description>Abastecimento pode ser afetado na Rua Guilherme Scharf e transversais até as 12h.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56157/samae-conserta-rompimento-de-adutora-no-bairro-fidelis-nesta-quarta-feira</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56157/6b245359c4e05c7e20d614ed6620323b.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Identificado ciclista que perdeu a vida em acidente com carreta na SC-108, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/56158/identificado-ciclista-que-perdeu-a-vida-em-acidente-com-carreta-na-sc-108-em-blumenau</link>
-      <description>Antonio Carlos Guete, de 65 anos, estava a caminho do trabalho quando foi atingido na noite desta terça-feira (7).</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56158/identificado-ciclista-que-perdeu-a-vida-em-acidente-com-carreta-na-sc-108-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56158/daf41608b1321c38a179d91f85111f78.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 08 Jul 2054 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
