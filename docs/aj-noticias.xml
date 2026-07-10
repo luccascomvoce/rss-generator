@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:47:17 +0000</lastBuildDate>
     <item>
-      <title>Inscrições para a 31ª edição da Cãominhada de Blumenau estão abertas; saiba como participar</title>
-      <link>https://ajnoticias.com.br/noticia/56207/inscricoes-para-a-31o-edicao-da-caominhada-de-blumenau-estao-abertas-saiba-como-participar</link>
-      <description>Evento será realizado no dia 19 de julho, no Parque Vila Germânica, com caminhada, concurso de fantasia e atividades gratuitas.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56207/inscricoes-para-a-31o-edicao-da-caominhada-de-blumenau-estao-abertas-saiba-como-participar</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56207/cc400aafb13961b7baa34a098158b3d0.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Sexta-feira começa com sol em Blumenau, mas chuva e trovoadas chegam à tarde</title>
+      <link>https://ajnoticias.com.br/noticia/56216/sexta-feira-comeca-com-sol-em-blumenau-mas-chuva-e-trovoadas-chegam-a-tarde</link>
+      <description>Máximas chegam a 25°C e mínimas ficam entre 10°C e 12°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56216/sexta-feira-comeca-com-sol-em-blumenau-mas-chuva-e-trovoadas-chegam-a-tarde</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56216/0181b289fc00a12182ac079a507e90ec.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 10 Jul 2045 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incêndio destrói telhado e estrutura de madeira de residência no bairro Itoupavazinha, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/56217/incendio-destroi-telhado-e-estrutura-de-madeira-de-residencia-no-bairro-itoupavazinha-em-blumenau</link>
+      <description>Moradora e três filhos saíram ilesos; fogo teria começado após religação do disjuntor.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56217/incendio-destroi-telhado-e-estrutura-de-madeira-de-residencia-no-bairro-itoupavazinha-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56217/bebb0cc6e927509e10ec854e774250d9.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
