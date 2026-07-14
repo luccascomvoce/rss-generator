@@ -7,14 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Jul 2026 21:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 15:27:11 +0000</lastBuildDate>
     <item>
-      <title>Rock'n Fest reúne mais de 6 mil pessoas no fim de semana em Blumenau</title>
-      <link>http://www.blumenau.sc.gov.br/secretarias/secretaria-de-turismo/sectur/rockn-fest-reaone-mais-de-6-mil-pessoas-no-fim-de-semana-em-blumenau66</link>
-      <description>Festival gratuito arrecadou 300 quilos de alimentos e 60 quilos de ração para entidades da cidade</description>
-      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/secretarias/secretaria-de-turismo/sectur/rockn-fest-reaone-mais-de-6-mil-pessoas-no-fim-de-semana-em-blumenau66</guid>
-      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/160a11a6eb8d1b85bef47c32d7d4bb9c.jpg" length="0" type="image/jpeg"/>
+      <title>Fila por ultrassonografia cai 30% na rede municipal de Blumenau</title>
+      <link>http://www.blumenau.sc.gov.br/secretarias/secretaria-de-saude/semus/fila-por-ultrassonografia-cai-30-na-rede-municipal-de-blumenau9</link>
+      <description>Com 200 exames por dia, espera caiu de 20 mil para 14 mil pedidos; psicologia e fonoaudiologia também ampliaram vagas</description>
+      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/secretarias/secretaria-de-saude/semus/fila-por-ultrassonografia-cai-30-na-rede-municipal-de-blumenau9</guid>
+      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/c1b351b1bba941bd828c111861a5a799.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bairro Passo Manso recebe o Procon Móvel nesta quarta-feira, dia 17</title>
+      <link>http://www.blumenau.sc.gov.br/governo/procon/procon/bairro-passo-manso-recebe-o-procon-maovel-nesta-quarta-feira-dia-1764</link>
+      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/governo/procon/procon/bairro-passo-manso-recebe-o-procon-maovel-nesta-quarta-feira-dia-1764</guid>
+      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/485533d838f8591dd583591377dc6e2d.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gincana teatral desafia artistas a criar espetáculos em tempo recorde nesta semana em Blumenau</title>
+      <link>http://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/gincana-teatral-desafia-artistas-a-criar-espetaaculos-em-tempo-recorde29</link>
+      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/gincana-teatral-desafia-artistas-a-criar-espetaaculos-em-tempo-recorde29</guid>
+      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/4e30761c5e8421e16b4aa3bac2d540b0.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
