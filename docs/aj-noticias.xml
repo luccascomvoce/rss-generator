@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Jul 2026 12:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:39:23 +0000</lastBuildDate>
     <item>
-      <title>Sexta-feira é de sol e tempo firme em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/56401/sexta-feira-e-de-sol-e-tempo-firme-em-blumenau</link>
-      <description>Máximas chegam a 27°C e mínimas ficam entre 14°C e 16°C.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56401/sexta-feira-e-de-sol-e-tempo-firme-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56401/721765c69b9946f1c586ae76fa22917d.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 17 Jul 2055 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dois mandados de prisão são cumpridos em Blumenau na tarde e noite desta quinta-feira</title>
-      <link>https://ajnoticias.com.br/noticia/56402/dois-mandados-de-prisao-sao-cumpridos-em-blumenau-na-tarde-e-noite-desta-quinta-feira</link>
-      <description>Homens foram localizados nos bairros Badenfurt e Vorstadt e encaminhados ao Presídio Regional.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56402/dois-mandados-de-prisao-sao-cumpridos-em-blumenau-na-tarde-e-noite-desta-quinta-feira</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56402/9ed022158590e7bc8e6adf4028a33db8.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 17 Jul 2051 00:00:00 +0000</pubDate>
+      <title>Cãominhada reúne pets e famílias neste domingo em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/56405/caominhada-reune-pets-e-familias-neste-domingo-em-blumenau</link>
+      <description>Evento terá caminhada de 1,5 quilômetro, concurso de fantasias, sorteios e café da manhã beneficente</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56405/caominhada-reune-pets-e-familias-neste-domingo-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56405/f90f7337ccbc7b6ae0799dc2955f9923.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 17 Jul 2050 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
