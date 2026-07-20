@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Jul 2026 17:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:43:19 +0000</lastBuildDate>
     <item>
-      <title>Recesso escolar começa nesta segunda-feira para quase 39 mil estudantes da rede municipal de Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/56458/recesso-escolar-comeca-nesta-segunda-feira-para-quase-39-mil-estudantes-da-rede-municipal-de-blumenau</link>
-      <description>Férias seguem até o dia 31 de julho e provocam redução no número de passageiros do transporte coletivo, que terá viagens suspensas e itinerários alterados.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56458/recesso-escolar-comeca-nesta-segunda-feira-para-quase-39-mil-estudantes-da-rede-municipal-de-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56458/140d750eb5eac7a77755132ca299d67c.webp" length="0" type="image/webp"/>
+      <title>Blumenau terá postos de vacinação contra gripe e tétano em dois shoppings</title>
+      <link>https://ajnoticias.com.br/noticia/56462/blumenau-tera-postos-de-vacinacao-contra-gripe-e-tetano-em-dois-shoppings</link>
+      <description>Atendimento começa no Shopping Park Europeu e, em agosto, será realizado no Neumarkt Shopping.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56462/blumenau-tera-postos-de-vacinacao-contra-gripe-e-tetano-em-dois-shoppings</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56462/4b84e51803ed2e3f73f9eb96b4df173d.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blumenau sobe ao pódio no atletismo e conquista três medalhas nos Joguinhos Abertos</title>
+      <link>https://ajnoticias.com.br/noticia/56465/blumenau-sobe-ao-podio-no-atletismo-e-conquista-tres-medalhas-nos-joguinhos-abertos</link>
+      <description>Provas do atletismo foram realizadas em Timbó e renderam três medalhas para a delegação blumenauense antes da abertura oficial da competição.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56465/blumenau-sobe-ao-podio-no-atletismo-e-conquista-tres-medalhas-nos-joguinhos-abertos</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56465/de2185fe009eb19f0e637f7d4dbc5d06.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 20 Jul 2033 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
