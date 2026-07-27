@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Jul 2026 17:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 13:36:30 +0000</lastBuildDate>
     <item>
-      <title>Oktoberfest Blumenau reúne mais de 200 integrantes em desfile do Festival de Dança de Joinville</title>
-      <link>https://ajnoticias.com.br/noticia/56607/oktoberfest-blumenau-reune-mais-de-200-integrantes-em-desfile-do-festival-de-danca-de-joinville</link>
-      <description>Evento aproximou dois dos principais movimentos culturais de Santa Catarina</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56607/oktoberfest-blumenau-reune-mais-de-200-integrantes-em-desfile-do-festival-de-danca-de-joinville</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/56607/beff034bb9aa5eae32229e5c39885521.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Semana começa com nevoeiro, mas sol e calor voltam a Blumenau nesta segunda-feira</title>
+      <link>https://ajnoticias.com.br/noticia/56616/semana-comeca-com-nevoeiro-mas-sol-e-calor-voltam-a-blumenau-nesta-segunda-feira</link>
+      <description>Máximas chegam a 30°C após dias de tempo mais fechado.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56616/semana-comeca-com-nevoeiro-mas-sol-e-calor-voltam-a-blumenau-nesta-segunda-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56616/1f08263f44ef1c0e8b7092586ddadd8f.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incêndio em lixeira de condomínio é controlado pelos bombeiros no bairro Água Verde</title>
+      <link>https://ajnoticias.com.br/noticia/56619/incendio-em-lixeira-de-condominio-e-controlado-pelos-bombeiros-no-bairro-agua-verde</link>
+      <description>Ocorrência foi registrada na madrugada desta segunda-feira na Rua Otto Wille.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/56619/incendio-em-lixeira-de-condominio-e-controlado-pelos-bombeiros-no-bairro-agua-verde</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/56619/0ba583e278e79726b61fcfc4a8da812c.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
