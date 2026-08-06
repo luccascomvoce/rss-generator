@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:02:17 +0000</lastBuildDate>
     <item>
-      <title>Museu de Arte de Blumenau recebe grupo de mães e crianças em visita mediada</title>
-      <link>http://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/imaginaacaao-e-afeto-marcam-visita-de-maaes-e-crianacas-ao-museu-de-arte2</link>
-      <description>Terceira Temporada de Exposições segue aberta ao público até 23 de agosto, com entrada gratuita</description>
-      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/secretarias/fundacao-cultural/fcblu/imaginaacaao-e-afeto-marcam-visita-de-maaes-e-crianacas-ao-museu-de-arte2</guid>
-      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/1bb3f47f3f568299b5990d7b2a5e6d60.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <title>Praça do Empreendedor capacita MEIs para oportunidades de prestação de serviços ao poder público</title>
+      <link>http://www.blumenau.sc.gov.br/secretarias/secretaria-de-desenvolvimento-economico/sedec/praaca-do-empreendedor-capacita-meis-para-oportunidades-de-prestaacaao-de-serviacos-ao-poder-paoblico26</link>
+      <description>Atendimento do Contrata+ vai até sexta-feira, dia 7, e conecta pequenos negócios ao mercado de compras públicas</description>
+      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/secretarias/secretaria-de-desenvolvimento-economico/sedec/praaca-do-empreendedor-capacita-meis-para-oportunidades-de-prestaacaao-de-serviacos-ao-poder-paoblico26</guid>
+      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/61e7fc31f4e39fc8ec853ef6c854dbfa.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procon de Blumenau orienta consumidores sobre as compras do Dia dos Pais</title>
+      <link>http://www.blumenau.sc.gov.br/secretarias/procon/procon/procon-de-blumenau-orienta-consumidores-sobre-as-compras-do-dia-dos-pais18</link>
+      <description>Atendimento será feito com o Procon Móvel junto à escadaria Catedral São Paulo Apóstolo na sexta-feira e sábado, dias 7 e 8</description>
+      <guid isPermaLink="false">http://www.blumenau.sc.gov.br/secretarias/procon/procon/procon-de-blumenau-orienta-consumidores-sobre-as-compras-do-dia-dos-pais18</guid>
+      <enclosure url="http://www.blumenau.sc.gov.br/view/media/small/82b0f3801a38e10ef79845ca0f9a5af2.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
