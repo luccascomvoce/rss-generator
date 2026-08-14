@@ -7,14 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 12:58:21 +0000</lastBuildDate>
     <item>
-      <title>Acidentes deixam seis pessoas feridas nesta quinta-feira (13/08) em Blumenau</title>
-      <link>https://oblumenauense.com.br/acidentes-deixam-seis-pessoas-feridas-nesta-quinta-feira-13-08-em-blumenau/</link>
-      <description>As vítimas foram encaminhadas aos hospitais Santa Isabel e Santo Antônio.</description>
-      <guid isPermaLink="false">https://oblumenauense.com.br/acidentes-deixam-seis-pessoas-feridas-nesta-quinta-feira-13-08-em-blumenau/</guid>
-      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/05/oblu_acidente_moto_bombeiros_25-05-26.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 14 Aug 2026 11:10:04 +0000</pubDate>
+      <title>Torneio de Schuhplattler chega a 5ª edição em Blumenau</title>
+      <link>https://oblumenauense.com.br/torneio-de-schuhplattler-chega-a-5a-edicao-em-blumenau/</link>
+      <description>Evento nos dias 22 e 23 de agosto terá disputa, festa, música e gastronomia no Centro Cultural 25 de Julho.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/torneio-de-schuhplattler-chega-a-5a-edicao-em-blumenau/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/Schuhplattler_torneio_BNU_c25julho_13-08-26-_03.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 00:40:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Previsão indica sexta (14/08) com tempo instável, céu encoberto e chuva fraca em Blumenau</title>
+      <link>https://oblumenauense.com.br/previsao-indica-sexta-14-08-com-tempo-instavel-ceu-encoberto-e-chuva-fraca-em-blumenau/</link>
+      <description>Ainda segundo o AlertaBlu, em alguns momentos, a chuva pode ocorrer na forma de pancadas isoladas, acompanhadas de trovoadas, com risco de maior intensidade em curto espaço de tempo.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/previsao-indica-sexta-14-08-com-tempo-instavel-ceu-encoberto-e-chuva-fraca-em-blumenau/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2023/12/tempo_blumenau_CJ_8-12-23.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 11:45:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blumenau passa madrugada sem ocorrências após chuva; atenção segue nesta sexta (14/08)</title>
+      <link>https://oblumenauense.com.br/blumenau-passa-madrugada-sem-ocorrencias-apos-chuva-atencao-segue-nesta-sexta-14-08/</link>
+      <description>Defesa Civil não registrou chamados entre a noite de quinta e a madrugada de hoje; previsão aponta até 70 mm de chuva na região.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/blumenau-passa-madrugada-sem-ocorrencias-apos-chuva-atencao-segue-nesta-sexta-14-08/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/oblu_chuva_noite_14-08-26.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 14 Aug 2026 12:32:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
