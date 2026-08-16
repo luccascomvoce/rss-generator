@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 16 Aug 2026 13:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 15:16:50 +0000</lastBuildDate>
     <item>
-      <title>Homem é baleado durante tentativa de homicídio em Gaspar</title>
-      <link>https://ajnoticias.com.br/noticia/57167/homem-e-baleado-durante-tentativa-de-homicidio-em-gaspar</link>
-      <description>Vítima de 37 anos foi encaminhada em estado grave ao Hospital Santa Isabel, em Blumenau</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57167/homem-e-baleado-durante-tentativa-de-homicidio-em-gaspar</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57167/b96fcda3bac1f78c1c8b03b1797382c6.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 16 Aug 2058 00:00:00 +0000</pubDate>
+      <title>Chuva provoca 11 ocorrências em Blumenau entre quinta e sábado</title>
+      <link>https://ajnoticias.com.br/noticia/57169/chuva-provoca-11-ocorrencias-em-blumenau-entre-quinta-e-sabado</link>
+      <description>Defesa Civil registrou cinco deslizamentos, além de quedas de muro e árvore</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57169/chuva-provoca-11-ocorrencias-em-blumenau-entre-quinta-e-sabado</guid>
+      <enclosure url="https://ajnoticias.com.br/img/4e269d9e1ea3c1bff7f0646b5c59c4c6e8939fb6.png" length="0" type="image/png"/>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
