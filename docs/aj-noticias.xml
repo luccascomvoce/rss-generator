@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:40:10 +0000</lastBuildDate>
     <item>
-      <title>Quarta-feira é de sol e calor em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/57237/quarta-feira-e-de-sol-e-calor-em-blumenau</link>
-      <description>Máximas chegam a 30°C com massa de ar quente e seco sobre o Médio Vale.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57237/quarta-feira-e-de-sol-e-calor-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57237/cdf85d8fe0f9b6366ab5f4248401214e.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homem agride e ameaça irmã e cunhada após uso de medicamentos no bairro Fortaleza</title>
-      <link>https://ajnoticias.com.br/noticia/57238/homem-agride-e-ameaca-irma-e-cunhada-apos-uso-de-medicamentos-no-bairro-fortaleza</link>
-      <description>Suspeito foi contido pelo próprio sobrinho antes da chegada da Polícia Militar.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57238/homem-agride-e-ameaca-irma-e-cunhada-apos-uso-de-medicamentos-no-bairro-fortaleza</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57238/7d04dbf96b246f31df2d7a9e9dbfd7d2.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Bombeiros combatem princípio de incêndio em edifício comercial de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57243/bombeiros-combatem-principio-de-incendio-em-edificio-comercial-de-blumenau</link>
+      <description>Grande quantidade de fumaça foi encontrada no hall do prédio; ninguém ficou ferido</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57243/bombeiros-combatem-principio-de-incendio-em-edificio-comercial-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57243/03baa77d79fe1a407eb861b753d4f9f9.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
