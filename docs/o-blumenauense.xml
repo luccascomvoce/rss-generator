@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:23:32 +0000</lastBuildDate>
     <item>
-      <title>Conserto em tubulação fecha totalmente trecho da Rua Paraíba, em Blumenau</title>
-      <link>https://oblumenauense.com.br/conserto-em-tubulacao-fecha-totalmente-trecho-da-rua-paraiba-em-blumenau/</link>
-      <description>Problema era mais complexo do que o previsto; trabalhos devem continuar nesta quarta-feira (19/08).</description>
-      <guid isPermaLink="false">https://oblumenauense.com.br/conserto-em-tubulacao-fecha-totalmente-trecho-da-rua-paraiba-em-blumenau/</guid>
-      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/obras_R-Paraiba_BNU_18-08-26_01.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 15:43:01 +0000</pubDate>
+      <title>Suspeito de furtar bicicleta foge, cai, é contido por populares e acaba preso em Blumenau</title>
+      <link>https://oblumenauense.com.br/suspeito-de-furtar-bicicleta-foge-cai-e-contido-por-populares-e-acaba-preso-em-blumenau/</link>
+      <description>Objeto levado da frente de uma residência na Itoupavazinha foi encontrado e recuperado no bairro Itoupava Norte.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/suspeito-de-furtar-bicicleta-foge-cai-e-contido-por-populares-e-acaba-preso-em-blumenau/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2022/04/bicicleta_sombra_rua_7-04-22.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 10:45:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Princípio de incêndio mobiliza bombeiros no Centro de Blumenau nesta quarta-feira (19/08)</title>
+      <link>https://oblumenauense.com.br/principio-de-incendio-mobiliza-bombeiros-no-centro-de-blumenau-nesta-quarta-feira-19-08/</link>
+      <description>Problema teria começado na parte elétrica de um dos andares de um imóvel na Rua XV de Novembro. Ninguém ficou ferido.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/principio-de-incendio-mobiliza-bombeiros-no-centro-de-blumenau-nesta-quarta-feira-19-08/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/incendio_predio_centro_BNU_19-08-26_04.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 11:14:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
