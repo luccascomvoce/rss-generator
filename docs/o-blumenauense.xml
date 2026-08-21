@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:21:49 +0000</lastBuildDate>
     <item>
-      <title>AlertaBlu traça rotas de fuga e indica caminhos seguros durante enchentes em Blumenau</title>
-      <link>https://oblumenauense.com.br/alertablu-traca-rotas-de-fuga-e-indica-caminhos-seguros-durante-enchentes-em-blumenau/</link>
-      <description>Aplicativo gratuito calcula trajetos em tempo real, evita áreas alagadas e bloqueios e mostra onde há abrigos ativos.</description>
-      <guid isPermaLink="false">https://oblumenauense.com.br/alertablu-traca-rotas-de-fuga-e-indica-caminhos-seguros-durante-enchentes-em-blumenau/</guid>
-      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/AlertaBlu_rotas_fuga_BNU_21-08-26.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 21 Aug 2026 19:29:04 +0000</pubDate>
+      <title>Blumenau recebe Estadual de Ginástica Artística neste fim de semana</title>
+      <link>https://oblumenauense.com.br/blumenau-recebe-estadual-de-ginastica-artistica-neste-fim-de-semana/</link>
+      <description>Competição reúne atletas das categorias infantil e adulto neste sábado e domingo (22 e 23/08), na Vila Esportiva.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/blumenau-recebe-estadual-de-ginastica-artistica-neste-fim-de-semana/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/ginastica_artistica_BNU_21-08-26.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 20:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Censo Pet já mapeou mais de 9,4 mil cães e gatos nas casas de Blumenau</title>
+      <link>https://oblumenauense.com.br/censo-pet-ja-mapeou-mais-de-94-mil-caes-e-gatos-nas-casas-de-blumenau/</link>
+      <description>Levantamento alcançou 6,3 mil famílias e ajuda a planejar atendimento veterinário, vacinas e ações de bem-estar animal.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/censo-pet-ja-mapeou-mais-de-94-mil-caes-e-gatos-nas-casas-de-blumenau/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/cao_gato_casa_mulher_21-08-26.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 21:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
