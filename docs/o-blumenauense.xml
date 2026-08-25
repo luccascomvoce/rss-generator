@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:41:38 +0000</lastBuildDate>
     <item>
-      <title>Quatro pessoas são encaminhadas ao hospital após acidentes em Blumenau</title>
-      <link>https://oblumenauense.com.br/quatro-pessoas-sao-encaminhadas-ao-hospital-apos-acidentes-em-blumenau/</link>
-      <description>Ocorrências se espalharam ao longo da segunda-feira (24/08), desde o início da manhã até o fim da tarde.</description>
-      <guid isPermaLink="false">https://oblumenauense.com.br/quatro-pessoas-sao-encaminhadas-ao-hospital-apos-acidentes-em-blumenau/</guid>
-      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/oblu_acidente_carro_moto_25-08-26.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 11:11:02 +0000</pubDate>
+      <title>Blumenau registra um caso de dengue em duas semanas e soma 12 confirmações em 2026</title>
+      <link>https://oblumenauense.com.br/blumenau-registra-um-caso-de-dengue-em-duas-semanas-e-soma-12-confirmacoes-em-2026/</link>
+      <description>Município não contabiliza mortes pela doença neste ano e reforça orientação para eliminar locais com água parada.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/blumenau-registra-um-caso-de-dengue-em-duas-semanas-e-soma-12-confirmacoes-em-2026/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2024/04/dengue_hospital_24-04-24.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 24 Aug 2026 19:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vídeo: Fim de semana em Blumenau celebrou dança típica da Baviera, tradicionalmente praticada por homens</title>
+      <link>https://oblumenauense.com.br/video-fim-de-semana-em-blumenau-celebrou-danca-tipica-da-baviera-tradicionalmente-praticada-por-homens/</link>
+      <description>Evento reuniu grupos de diferentes cidades e teve uma curiosa apresentação com chicotes.</description>
+      <guid isPermaLink="false">https://oblumenauense.com.br/video-fim-de-semana-em-blumenau-celebrou-danca-tipica-da-baviera-tradicionalmente-praticada-por-homens/</guid>
+      <enclosure url="https://oblumenauense.com.br/wp-content/uploads/2026/08/torneio_Schuplatter_BNU_25-08-26.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 11:35:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
