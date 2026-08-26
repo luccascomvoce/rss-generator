@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:24:55 +0000</lastBuildDate>
     <item>
-      <title>Homem é preso após ameaçar funcionários e danificar hospital com marreta em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/57394/homem-e-preso-apos-ameacar-funcionarios-e-danificar-hospital-com-marreta-em-blumenau</link>
-      <description>Ocorrência foi registrada na manhã desta terça-feira na Vila Itoupava; suspeito de 43 anos foi encaminhado à delegacia</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57394/homem-e-preso-apos-ameacar-funcionarios-e-danificar-hospital-com-marreta-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57394/3fd829d37df0fa7eb3c7e43c8462e421.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Quarta-feira tem céu nublado e chuvisco em Blumenau, com períodos de sol</title>
+      <link>https://ajnoticias.com.br/noticia/57409/quarta-feira-tem-ceu-nublado-e-chuvisco-em-blumenau-com-periodos-de-sol</link>
+      <description>Máximas ficam entre 21°C e 23°C e mínimas entre 15°C e 17°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57409/quarta-feira-tem-ceu-nublado-e-chuvisco-em-blumenau-com-periodos-de-sol</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57409/37ddf88a335287d2e19f1732ff9d59ed.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem foge da PM, resiste à abordagem e é preso com maconha no bairro Vorstadt</title>
+      <link>https://ajnoticias.com.br/noticia/57410/homem-foge-da-pm-resiste-a-abordagem-e-e-preso-com-maconha-no-bairro-vorstadt</link>
+      <description>Suspeito mudou de direção ao ver a viatura e tentou escapar a pé.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57410/homem-foge-da-pm-resiste-a-abordagem-e-e-preso-com-maconha-no-bairro-vorstadt</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57410/0af00889b02dc0749a89b1e021fb5cc5.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
