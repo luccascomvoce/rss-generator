@@ -7,13 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 30 Aug 2026 20:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:09:47 +0000</lastBuildDate>
     <item>
-      <title>Homem é morto a facadas no bairro Garcia, em Blumenau; PM prende suspeito que confessou as agressões</title>
-      <link>https://ajnoticias.com.br/noticia/57519/homem-e-morto-a-facadas-no-garcia-em-blumenau-pm-prende-suspeito-que-confessou-as-agressoes</link>
-      <description>Segundo a PM, homem de 35 anos foi abordado nas proximidades e confessou ter desferido as facadas.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57519/homem-e-morto-a-facadas-no-garcia-em-blumenau-pm-prende-suspeito-que-confessou-as-agressoes</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57519/23b0dbab0665201a4b65fcb7e9504c3d.webp" length="0" type="image/webp"/>
+      <title>Segunda-feira tem risco de temporais e chuva intensa a qualquer momento em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57520/segunda-feira-tem-risco-de-temporais-e-chuva-intensa-a-qualquer-momento-em-blumenau</link>
+      <description>Máximas não passam dos 23°C com tempo instável ao longo do dia.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57520/segunda-feira-tem-risco-de-temporais-e-chuva-intensa-a-qualquer-momento-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57520/d9f079b48cd8b586e00b1eb4e3d90efc.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entregador agride homem com martelo na cabeça após discussão no bairro Velha Central</title>
+      <link>https://ajnoticias.com.br/noticia/57522/entregador-agride-homem-com-martelo-na-cabeca-apos-discussao-no-bairro-velha-central</link>
+      <description>Suspeito foi localizado no local de trabalho; vítima foi encaminhada ao hospital.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57522/entregador-agride-homem-com-martelo-na-cabeca-apos-discussao-no-bairro-velha-central</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57522/26fb8fecff252e218b39d319f78c4d47.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-marido invade casa, empurra mulher e ameaça casal com faca no bairro Tribess</title>
+      <link>https://ajnoticias.com.br/noticia/57526/ex-marido-invade-casa-empurra-mulher-e-ameaca-casal-com-faca-no-bairro-tribess</link>
+      <description>Suspeito de 42 anos foi preso em flagrante no local.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57526/ex-marido-invade-casa-empurra-mulher-e-ameaca-casal-com-faca-no-bairro-tribess</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57526/caf1570b255f4422a4c7ba67c127677b.webp" length="0" type="image/webp"/>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
