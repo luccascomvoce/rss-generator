@@ -7,22 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 05 Sep 2026 17:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:50:30 +0000</lastBuildDate>
     <item>
-      <title>Campanha de multivacinação aplica 12,3 mil doses em crianças e adolescentes de Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/57645/campanha-de-multivacinacao-aplica-12-3-mil-doses-em-criancas-e-adolescentes-de-blumenau</link>
-      <description>Balanço aponta cobertura acima de 80% e 90% para a maioria dos imunizantes em menores de 1 ano, mas índices caem para cerca de 70% em algumas vacinas na faixa de até 4 anos.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57645/campanha-de-multivacinacao-aplica-12-3-mil-doses-em-criancas-e-adolescentes-de-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57645/c01c37a9f5546f753dce04d9cb174355.webp" length="0" type="image/webp"/>
+      <title>Domingo terá sol entre nuvens e queda de temperatura à noite em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57653/domingo-tera-sol-entre-nuvens-e-queda-de-temperatura-a-noite-em-blumenau</link>
+      <description>Sol aparece entre nuvens durante o dia, mas avanço de uma massa de ar frio provoca queda nas temperaturas.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57653/domingo-tera-sol-entre-nuvens-e-queda-de-temperatura-a-noite-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57653/3539bd5bd1987f50ecc96f6dbff373a9.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem é preso pela PM após agredir o próprio pai em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57654/homem-e-preso-pela-pm-apos-agredir-o-proprio-pai-em-blumenau</link>
+      <description>Quando chegaram ao endereço, os policiais ouviram gritos vindos de uma casa.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57654/homem-e-preso-pela-pm-apos-agredir-o-proprio-pai-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57654/b3df6cc7690a37aaf8f23273a9737817.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Defesa Civil de Blumenau abre inscrições para 30 voluntários na Central de Emergência 199</title>
-      <link>https://ajnoticias.com.br/noticia/57648/defesa-civil-de-blumenau-abre-inscricoes-para-30-voluntarios-na-central-de-emergencia-199</link>
-      <description>Selecionados vão atuar no atendimento telefônico, registro de ocorrências e monitoramento de diques</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57648/defesa-civil-de-blumenau-abre-inscricoes-para-30-voluntarios-na-central-de-emergencia-199</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57648/dad554f7b44ae44dedd5abd46c8ce7ec.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 05 Sep 2046 00:00:00 +0000</pubDate>
+      <title>Corte da maior cuca do Brasil e desfile marcam o feriado de 7 de Setembro na Vila Itoupava, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57655/corte-da-maior-cuca-do-brasil-e-desfile-marcam-o-feriado-de-7-de-setembro-na-vila-itoupava-em-blumenau</link>
+      <description>Produção envolve 25 padeiros e ajudantes e terá oito sabores; corte ocorre na Vila Itoupava após o desfile de 7 de Setembro.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57655/corte-da-maior-cuca-do-brasil-e-desfile-marcam-o-feriado-de-7-de-setembro-na-vila-itoupava-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57655/64a99b9cc56182e9ae1a589439137aec.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blumenau lança aplicativo para famílias acompanharem notas e frequência dos alunos</title>
+      <link>https://ajnoticias.com.br/noticia/57657/blumenau-lanca-aplicativo-para-familias-acompanharem-notas-e-frequencia-dos-alunos</link>
+      <description>Escola Mais reúne frequência, notas, avaliações, horários, calendário e comunicados da Rede Municipal de Ensino em um único ambiente.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57657/blumenau-lanca-aplicativo-para-familias-acompanharem-notas-e-frequencia-dos-alunos</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57657/b7936bc4e86b7ff9c0849a2406a38141.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
