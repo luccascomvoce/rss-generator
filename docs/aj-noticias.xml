@@ -7,22 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:21:07 +0000</lastBuildDate>
     <item>
-      <title>Quinta-feira tem chuva persistente e risco de temporal em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/57743/quinta-feira-tem-chuva-persistente-e-risco-de-temporal-em-blumenau</link>
-      <description>Máximas não passam dos 22°C com céu completamente fechado ao longo do dia.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57743/quinta-feira-tem-chuva-persistente-e-risco-de-temporal-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57743/bbc8315af6754d15fb03f76d6ba7d8c1.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Blumenau recebe micro-ônibus acessível para transporte de idosos da Pró-Família</title>
+      <link>https://ajnoticias.com.br/noticia/57764/blumenau-recebe-micro-onibus-acessivel-para-transporte-de-idosos-da-pro-familia</link>
+      <description>Veículo tem capacidade para 20 passageiros e sistema de acessibilidade por poltrona móvel.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57764/blumenau-recebe-micro-onibus-acessivel-para-transporte-de-idosos-da-pro-familia</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57764/f1b6b8aafa94f814d97fbeed54171100.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Produtos inspirados na Oktoberfest Blumenau chegam aos supermercados pela primeira vez</title>
-      <link>https://ajnoticias.com.br/noticia/57748/produtos-inspirados-na-oktoberfest-blumenau-chegam-aos-supermercados-pela-primeira-vez</link>
-      <description>Cinco itens foram lançados nesta quarta-feira em Florianópolis e passam a ser vendidos nas gôndolas nos próximos dias.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57748/produtos-inspirados-na-oktoberfest-blumenau-chegam-aos-supermercados-pela-primeira-vez</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57748/6efe290e3e1e15df48d2a8876388b556.webp" length="0" type="image/webp"/>
+      <title>Manutenção na ETA 1 pode afetar abastecimento de água em cinco bairros de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57767/manutencao-na-eta-1-pode-afetar-abastecimento-de-agua-em-cinco-bairros-de-blumenau</link>
+      <description>ETA 1 ficará totalmente paralisada por até três horas para manutenção preventiva neste domingo (13).</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57767/manutencao-na-eta-1-pode-afetar-abastecimento-de-agua-em-cinco-bairros-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57767/ad0cd297dd9c133c6755f4ec60c9a2dc.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campanha que sorteia R$ 500 mil em prêmios termina nesta sexta em SC; veja como participar</title>
+      <link>https://ajnoticias.com.br/noticia/57772/campanha-que-sorteia-r-500-mil-em-premios-termina-nesta-sexta-em-sc-veja-como-participar</link>
+      <description>Comércio Local é Legal reúne 2.574 estabelecimentos credenciados em Santa Catarina, sendo 175 na região de Blumenau.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57772/campanha-que-sorteia-r-500-mil-em-premios-termina-nesta-sexta-em-sc-veja-como-participar</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57772/df08c8e5df2fa45839f66d58c673090a.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 10 Sep 2032 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
