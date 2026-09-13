@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:08:41 +0000</lastBuildDate>
     <item>
-      <title>Rio Itajaí-Açu recua em Blumenau, mas Defesa Civil orienta atenção em áreas de encosta</title>
-      <link>https://ajnoticias.com.br/noticia/57819/rio-itajai-acu-recua-em-blumenau-mas-defesa-civil-orienta-atencao-em-areas-de-encosta</link>
-      <description>Nível do rio estava em 7,10 metros ao meio-dia deste sábado (12), após atingir 7,86 metros durante a madrugada.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57819/rio-itajai-acu-recua-em-blumenau-mas-defesa-civil-orienta-atencao-em-areas-de-encosta</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57819/175b7f02ca0dc810f170c558f23e3b01.webp" length="0" type="image/webp"/>
+      <title>Domingo começa com aberturas de sol e temperaturas baixas em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57825/domingo-comeca-com-aberturas-de-sol-e-temperaturas-baixas-em-blumenau</link>
+      <description>Circulação marítima mantém a variação de nuvens ao longo do dia, com possibilidade de chuva fraca em alguns períodos.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57825/domingo-comeca-com-aberturas-de-sol-e-temperaturas-baixas-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57825/5cb415f1e17706b8ee07003ee35f0560.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jovem de 19 anos morre após carro bater na traseira de caminhão em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57827/jovem-de-19-anos-morre-apos-carro-bater-na-traseira-de-caminhao-em-blumenau</link>
+      <description>Acidente aconteceu na madrugada deste domingo (13), na Rua Amazonas, no bairro Garcia.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57827/jovem-de-19-anos-morre-apos-carro-bater-na-traseira-de-caminhao-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57827/fa77275d13203ce4b247608bcfbfd96a.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 13 Sep 2044 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
