@@ -7,22 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:37:49 +0000</lastBuildDate>
     <item>
-      <title>Domingo começa com aberturas de sol e temperaturas baixas em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/57825/domingo-comeca-com-aberturas-de-sol-e-temperaturas-baixas-em-blumenau</link>
-      <description>Circulação marítima mantém a variação de nuvens ao longo do dia, com possibilidade de chuva fraca em alguns períodos.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57825/domingo-comeca-com-aberturas-de-sol-e-temperaturas-baixas-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57825/5cb415f1e17706b8ee07003ee35f0560.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Segunda-feira tem céu fechado e possibilidade de garoa em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57836/segunda-feira-tem-ceu-fechado-e-possibilidade-de-garoa-em-blumenau</link>
+      <description>Máximas não passam dos 19°C com tempo nublado ao longo do dia.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57836/segunda-feira-tem-ceu-fechado-e-possibilidade-de-garoa-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57836/9e629cb8add81d517ddb263b55679d75.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Jovem de 19 anos morre após carro bater na traseira de caminhão em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/57827/jovem-de-19-anos-morre-apos-carro-bater-na-traseira-de-caminhao-em-blumenau</link>
-      <description>Acidente aconteceu na madrugada deste domingo (13), na Rua Amazonas, no bairro Garcia.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57827/jovem-de-19-anos-morre-apos-carro-bater-na-traseira-de-caminhao-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57827/fa77275d13203ce4b247608bcfbfd96a.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 13 Sep 2044 00:00:00 +0000</pubDate>
+      <title>Homem fica preso sob carro em estacionamento de supermercado no bairro Vorstadt</title>
+      <link>https://ajnoticias.com.br/noticia/57837/homem-fica-preso-sob-carro-em-estacionamento-de-supermercado-no-bairro-vorstadt</link>
+      <description>Vítima de 58 anos foi retirada pelos bombeiros e encaminhada ao Hospital Santo Antônio.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57837/homem-fica-preso-sob-carro-em-estacionamento-de-supermercado-no-bairro-vorstadt</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57837/3563eea69c80d2473c062649eb7c6eaf.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
