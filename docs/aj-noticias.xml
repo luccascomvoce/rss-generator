@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:27:35 +0000</lastBuildDate>
     <item>
-      <title>Museu de Arte de Blumenau promove programação especial da Primavera dos Museus</title>
-      <link>https://ajnoticias.com.br/noticia/57860/museu-de-arte-de-blumenau-promove-programacao-especial-da-primavera-dos-museus</link>
-      <description>Programação começa nesta terça-feira e segue até o fim de setembro, com cinco exposições, encontro com artistas, visitação noturna e atividade para famílias.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57860/museu-de-arte-de-blumenau-promove-programacao-especial-da-primavera-dos-museus</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/57860/8aaee7aa540686e24a52d313a88f113b.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Terça-feira é de sol e tempo firme em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/57868/terca-feira-e-de-sol-e-tempo-firme-em-blumenau</link>
+      <description>Máximas chegam a 26°C e mínimas ficam entre 13°C e 15°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57868/terca-feira-e-de-sol-e-tempo-firme-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57868/7abbfd81a8ef1a18b27a3a3a70db074a.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Princípio de incêndio em disjuntor é controlado em kitnet no bairro Garcia</title>
+      <link>https://ajnoticias.com.br/noticia/57869/principio-de-incendio-em-disjuntor-e-controlado-em-kitnet-no-bairro-garcia</link>
+      <description>Ocorrência foi registrada na noite desta segunda-feira (14) na Rua José Busnardo, em Blumenau.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/57869/principio-de-incendio-em-disjuntor-e-controlado-em-kitnet-no-bairro-garcia</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/57869/2a495b82ac7f94b19f3d73981e3e05d5.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
