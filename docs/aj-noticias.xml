@@ -7,22 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:40:47 +0000</lastBuildDate>
     <item>
-      <title>Vídeo: Idoso morre após carro bater contra muro no bairro Escola Agrícola, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58212/idoso-morre-apos-carro-bater-contra-muro-no-bairro-escola-agricola-em-blumenau</link>
-      <description>Ocorrência foi registrada na Rua Ricardo Koball; passageira de 72 anos foi encaminhada ao Hospital Santa Isabel.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58212/idoso-morre-apos-carro-bater-contra-muro-no-bairro-escola-agricola-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58212/1e3780f82636529f525c05abfbdef685.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homem é esfaqueado ao ser cobrado por dívida e ocorrência termina com quatro pessoas presas em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58218/homem-e-esfaqueado-ao-ser-cobrado-por-divida-e-ocorrencia-termina-com-quatro-pessoas-presas-em-blumenau</link>
-      <description>Segundo a PM, dois homens, de 42 e 31 anos, e uma mulher, de 32 anos, foram até a casa da vítima para cobrar uma dívida.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58218/homem-e-esfaqueado-ao-ser-cobrado-por-divida-e-ocorrencia-termina-com-quatro-pessoas-presas-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58218/48a89c3544c6a7cb8ff677e8f8405937.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Domingo terá mudança no tempo em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58227/domingo-tera-mudanca-no-tempo-em-blumenau</link>
+      <description>Dia inicia com algumas aberturas de sol, mas circulação marítima aumenta a nebulosidade e pode trazer chuva fraca à noite.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58227/domingo-tera-mudanca-no-tempo-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58227/bc84945818e5d00730063b42d48356c8.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
