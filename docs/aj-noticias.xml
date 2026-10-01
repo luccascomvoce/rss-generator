@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:57:32 +0000</lastBuildDate>
     <item>
-      <title>Samae retoma obras para instalação de nova rede de abastescimento de água no bairro Velha Grande, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58329/samae-retoma-obras-para-instalacao-de-nova-rede-de-abastescimento-de-agua-no-bairro-velha-grande-em-blumenau</link>
-      <description>Trabalhos na Rua Franz Muller devem ser concluídos até o fim de outubro e também incluem nova tubulação na Rua da Comunidade</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58329/samae-retoma-obras-para-instalacao-de-nova-rede-de-abastescimento-de-agua-no-bairro-velha-grande-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58329/421480b9a1a6a76f31d74813fa68335f.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <title>Quinta-feira tem chuva de manhã e chuvisco à tarde em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58335/quinta-feira-tem-chuva-de-manha-e-chuvisco-a-tarde-em-blumenau</link>
+      <description>Máximas não passam dos 20°C com tempo fechado ao longo do dia.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58335/quinta-feira-tem-chuva-de-manha-e-chuvisco-a-tarde-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58335/58f1450c8cdacf6b8d82981ab2297d61.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incêndio atinge parte superior de residência no Centro de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58337/incendio-atinge-parte-superior-de-residencia-no-centro-de-blumenau</link>
+      <description>Ocorrência foi registrada na tarde desta terça-feira; chamas foram contidas antes de se espalharem.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58337/incendio-atinge-parte-superior-de-residencia-no-centro-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58337/dfd19ae8d6148220a1971351e5a3d38b.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
