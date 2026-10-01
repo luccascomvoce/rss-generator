@@ -7,22 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:51:26 +0000</lastBuildDate>
     <item>
-      <title>Quinta-feira tem chuva de manhã e chuvisco à tarde em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58335/quinta-feira-tem-chuva-de-manha-e-chuvisco-a-tarde-em-blumenau</link>
-      <description>Máximas não passam dos 20°C com tempo fechado ao longo do dia.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58335/quinta-feira-tem-chuva-de-manha-e-chuvisco-a-tarde-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58335/58f1450c8cdacf6b8d82981ab2297d61.webp" length="0" type="image/webp"/>
+      <title>Um café no Tönjes</title>
+      <link>https://ajnoticias.com.br/noticia/58333/um-cafe-no-tonjes</link>
+      <description>Referencia primeira na tradição confeiteira blumenauense, o Tönjes marcou época com inovações, cardápio único, visitas ilustres e muitas saudades do que lá estiveram</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58333/um-cafe-no-tonjes</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58333/7eefd37c1ac4cb5b8cbe63192741f82c.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Incêndio atinge parte superior de residência no Centro de Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58337/incendio-atinge-parte-superior-de-residencia-no-centro-de-blumenau</link>
-      <description>Ocorrência foi registrada na tarde desta terça-feira; chamas foram contidas antes de se espalharem.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58337/incendio-atinge-parte-superior-de-residencia-no-centro-de-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58337/dfd19ae8d6148220a1971351e5a3d38b.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Pedestre morre atropelado em acidente envolvendo carro e caminhão em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58353/pedestre-morre-em-atropelamento-envolvendo-carro-e-caminhao-em-blumenau</link>
+      <description>Acidente aconteceu na Rua Gustavo Zimmermann, no bairro Itoupava Central; circunstâncias serão apuradas pelos órgãos competentes.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58353/pedestre-morre-em-atropelamento-envolvendo-carro-e-caminhao-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58353/2465df2299c95b521e15d369cc49a34f.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nova vistoria altera circulação de veículos pesados na Rua Engenheiro Udo Deeke, em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58354/nova-vistoria-muda-circulacao-de-veiculos-pesados-na-rua-udo-deeke-em-blumenau</link>
+      <description>Veículos com mais de quatro toneladas deverão utilizar desvio pela Rua Pomerode a partir das 8h desta sexta-feira (2).</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58354/nova-vistoria-muda-circulacao-de-veiculos-pesados-na-rua-udo-deeke-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58354/b9a10c93ec0ce8ba5fa7eb6ec59e19e6.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oktoberfest Blumenau terá totens 3D e aplicativo com recursos de acessibilidade</title>
+      <link>https://ajnoticias.com.br/noticia/58360/oktoberfest-blumenau-tera-totens-3d-e-aplicativo-com-recursos-de-acessibilidade</link>
+      <description>Novas ferramentas foram apresentadas nesta quinta-feira (1º) e terão mapa 3D, Libras, audiodescrição e rotas dentro da Vila Germânica.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58360/oktoberfest-blumenau-tera-totens-3d-e-aplicativo-com-recursos-de-acessibilidade</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58360/3f43388d1051d1b1f3241fdce138b36f.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
