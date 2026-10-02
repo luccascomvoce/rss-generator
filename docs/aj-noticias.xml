@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:31:02 +0000</lastBuildDate>
     <item>
-      <title>Justiça Eleitoral proíbe estacionamento de veículos adesivados perto de locais de votação em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58365/justica-eleitoral-proibe-estacionamento-de-veiculos-adesivados-perto-de-locais-de-votacao-em-blumenau</link>
-      <description>A exceção é o período estritamente necessário para o eleitor exercer o direito ao voto.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58365/justica-eleitoral-proibe-estacionamento-de-veiculos-adesivados-perto-de-locais-de-votacao-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58365/83fe31befeaed215d9b023b190688924.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Sexta-feira tem céu fechado e chuva fraca em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58371/sexta-feira-tem-ceu-fechado-e-chuva-fraca-em-blumenau</link>
+      <description>Máximas não passam dos 20°C com circulação marítima mantendo o tempo nublado.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58371/sexta-feira-tem-ceu-fechado-e-chuva-fraca-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58371/f5d87e6e22b98d98e457c8cb2abf57e2.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adolescentes ligam para o 190 e inventam massacre em escola no bairro Salto do Norte</title>
+      <link>https://ajnoticias.com.br/noticia/58372/adolescentes-ligam-para-o-190-e-inventam-massacre-em-escola-no-bairro-salto-do-norte</link>
+      <description>Duas alunas de 13 e 14 anos foram apreendidas após mobilizar PM, SAMU e Polícia Civil.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58372/adolescentes-ligam-para-o-190-e-inventam-massacre-em-escola-no-bairro-salto-do-norte</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58372/be2640e7b551de081f959e20b0ad0020.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
