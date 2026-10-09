@@ -7,22 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:26:11 +0000</lastBuildDate>
     <item>
-      <title>Acidente deixa quatro feridos e motorista preso às ferragens na Rua República Argentina, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58612/acidente-deixa-quatro-feridos-e-motorista-preso-as-ferragens-na-rua-republica-argentina-em-blumenau</link>
-      <description>Fiat Cronos ficou tombado de lado após colisão com furgão; bombeiros fizeram o desencarceramento e as vítimas foram levadas a dois hospitais</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58612/acidente-deixa-quatro-feridos-e-motorista-preso-as-ferragens-na-rua-republica-argentina-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58612/23475b5dff6e610e8eda64e79085d300.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Feriado de Nossa Senhora Aparecida: veja o que abre e o que fecha em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58620/feriado-de-nossa-senhora-aparecida-veja-o-que-abre-e-o-que-fecha-em-blumenau</link>
+      <description>O atendimento nas repartições públicas municipais retorna normalmente na terça-feira (13).</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58620/feriado-de-nossa-senhora-aparecida-veja-o-que-abre-e-o-que-fecha-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58620/f365914c3100678a16869836aa3bd40a.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Jovem de 19 anos e dois adolescentes são levados à delegacia com drogas e rádios no bairro Ponta Aguda, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58614/jovem-de-19-anos-e-dois-adolescentes-sao-levados-a-delegacia-com-drogas-e-radios-no-bairro-ponta-aguda-em-blumenau</link>
-      <description>Policiais militares encontraram crack, cocaína, maconha e haxixe, além de celulares e dinheiro, na Rua August Friedrich Wilhelm Becker</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58614/jovem-de-19-anos-e-dois-adolescentes-sao-levados-a-delegacia-com-drogas-e-radios-no-bairro-ponta-aguda-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58614/13ce0e14ecd9f168c935eddfb908b3ef.webp" length="0" type="image/webp"/>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Bandas internacionais estreiam na 41ª Oktoberfest Blumenau no primeiro fim de semana da festa</title>
+      <link>https://ajnoticias.com.br/noticia/58623/bandas-internacionais-estreiam-na-41o-oktoberfest-blumenau-no-primeiro-fim-de-semana-da-festa</link>
+      <description>Os shows começam nesta sexta-feira (9) e seguem até domingo (11), com apresentações no Parque Vila Germânica.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58623/bandas-internacionais-estreiam-na-41o-oktoberfest-blumenau-no-primeiro-fim-de-semana-da-festa</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58623/dc529f63795229df0b7974afc8ca5384.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dois atropelamentos são registrados em Blumenau; um ocorreu na faixa de pedestres</title>
+      <link>https://ajnoticias.com.br/noticia/58625/dois-atropelamentos-sao-registrados-em-blumenau-um-ocorreu-na-faixa-de-pedestres</link>
+      <description>Dois deles precisaram ser encaminhados ao Hospital Santo Antônio.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58625/dois-atropelamentos-sao-registrados-em-blumenau-um-ocorreu-na-faixa-de-pedestres</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58625/b2bd35cfc46141e3bd442aeab191beed.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O eleitor</title>
+      <link>https://ajnoticias.com.br/noticia/58559/o-eleitor-blumenauense</link>
+      <description>E o esporte blumenauense</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58559/o-eleitor-blumenauense</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58559/df495c9bd12aa60ecca7c4baef99924c.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 09 Oct 2040 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
