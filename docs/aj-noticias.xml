@@ -7,38 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:45:34 +0000</lastBuildDate>
     <item>
-      <title>Sol predomina neste domingo em Blumenau, com máxima de 27°C</title>
-      <link>https://ajnoticias.com.br/noticia/58843/sol-predomina-neste-domingo-em-blumenau-com-maxima-de-27dc</link>
-      <description>Massa de ar seco mantém o tempo firme neste domingo (18), com manhã amena e tarde de temperaturas mais elevadas.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58843/sol-predomina-neste-domingo-em-blumenau-com-maxima-de-27dc</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58843/242307fe34b46fee14f93b9a98a25521.webp" length="0" type="image/webp"/>
+      <title>Suspeito de esfaquear funcionário no Centro de Blumenau é preso em Pomerode</title>
+      <link>https://ajnoticias.com.br/noticia/58848/suspeito-de-esfaquear-funcionario-no-centro-de-blumenau-e-preso-em-pomerode</link>
+      <description>A vítima, de 28 anos, sofreu um ferimento na região do peito e foi internada.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58848/suspeito-de-esfaquear-funcionario-no-centro-de-blumenau-e-preso-em-pomerode</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58848/f53f109c76915818d2bfb54a726caa5f.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guarda Municipal recupera moto furtada e conduz adolescente à delegacia em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58851/guarda-municipal-recupera-moto-furtada-e-conduz-adolescente-a-delegacia-em-blumenau</link>
+      <description>Veículo tinha registro de furto desde janeiro deste ano.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58851/guarda-municipal-recupera-moto-furtada-e-conduz-adolescente-a-delegacia-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58851/1fbadea6e45360e1a093d0c12a8e8dee.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oktoberfest Blumenau bate recorde de público diário desde a implantação de catracas eletrônicas</title>
-      <link>https://ajnoticias.com.br/noticia/58844/com-maior-publico-da-edicao-oktoberfest-blumenau-ultrapassa-400-mil-visitantes</link>
-      <description>Bilheterias foram fechadas às 20h15 deste sábado (17), após os ingressos se esgotarem</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58844/com-maior-publico-da-edicao-oktoberfest-blumenau-ultrapassa-400-mil-visitantes</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58844/ac35cf9ad06c8d28286a25227eb569d6.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Morre Roberta Felsky Pinheiro, rainha da Oktoberfest Blumenau em 2007</title>
-      <link>https://ajnoticias.com.br/noticia/58845/morre-roberta-felsky-pinheiro-rainha-da-oktoberfest-blumenau-em-2007</link>
-      <description>Turismóloga tinha 45 anos, lutava contra um câncer e deixa o marido e três filhos.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58845/morre-roberta-felsky-pinheiro-rainha-da-oktoberfest-blumenau-em-2007</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58845/fe64c6cdb8a14500e705b249732656f8.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homem com mandado de prisão civil é preso após uso da tecnologia de reconhecimento facial na Oktoberfest Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/58847/homem-com-mandado-de-prisao-civil-e-preso-apos-uso-da-tecnologia-de-reconhecimento-facial-na-oktoberfest-blumenau</link>
-      <description>Suspeito foi identificado pelo sistema de reconhecimento facial das câmeras do evento e encaminhado à Polícia Penal.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58847/homem-com-mandado-de-prisao-civil-e-preso-apos-uso-da-tecnologia-de-reconhecimento-facial-na-oktoberfest-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58847/8fc31e558bb04a0a82516e2badee9b39.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
