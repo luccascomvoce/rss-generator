@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:16:44 +0000</lastBuildDate>
     <item>
-      <title>Ladrão arromba janela e invade casa no bairro Velha, em Blumenau, mas é seguido pelas vítimas até a chegada da PM</title>
-      <link>https://ajnoticias.com.br/noticia/58890/ladrao-arromba-janela-e-invade-casa-no-bairro-velha-em-blumenau-mas-e-seguido-pelas-vitimas-ate-a-chegada-da-pm</link>
-      <description>Suspeito de 29 anos levou smartwatch, celular, escapulário e R$ 40 e foi preso em flagrante na tarde de segunda-feira</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58890/ladrao-arromba-janela-e-invade-casa-no-bairro-velha-em-blumenau-mas-e-seguido-pelas-vitimas-ate-a-chegada-da-pm</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/58890/edcb496faf5ad0a90ff834d6cf4842c1.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Consumidores do bairro Água Verde poderão registrar denúncias no Procon Móvel nesta quarta-feira</title>
+      <link>https://ajnoticias.com.br/noticia/58899/consumidores-do-bairro-agua-verde-poderao-registrar-denuncias-no-procon-movel-nesta-quarta-feira</link>
+      <description>O atendimento será realizado das 10h às 12h e das 13h às 15h.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58899/consumidores-do-bairro-agua-verde-poderao-registrar-denuncias-no-procon-movel-nesta-quarta-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58899/2cba22507b023182a262c8610c8abb8c.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Câmara discute empréstimo de R$ 64,4 milhões para modernizar tecnologia da Prefeitura de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/58900/camara-discute-emprestimo-de-r-64-4-milhoes-para-modernizar-tecnologia-da-prefeitura-de-blumenau</link>
+      <description>Diretores da Prefeitura apresentaram detalhes do projeto, que prevê investimentos em data center, sistemas e infraestrutura tecnológica.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/58900/camara-discute-emprestimo-de-r-64-4-milhoes-para-modernizar-tecnologia-da-prefeitura-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/58900/0a8cdc8220174b0897dfd32302255446.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 20 Oct 2046 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
