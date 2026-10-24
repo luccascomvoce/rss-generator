@@ -7,30 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:47:04 +0000</lastBuildDate>
     <item>
-      <title>Sábado será de céu encoberto e chuva persistente em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59028/sabado-sera-de-ceu-encoberto-e-chuva-persistente-em-blumenau</link>
-      <description>Instabilidade deve predominar neste sábado, com possibilidade de chuva intensa em curto período</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59028/sabado-sera-de-ceu-encoberto-e-chuva-persistente-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59028/c7aca525c60995d592107efa53695221.webp" length="0" type="image/webp"/>
+      <title>Homem é preso após agredir companheira e ameaçar filha dela em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59038/homem-e-preso-apos-agredir-companheira-e-ameacar-filha-adolescente-em-blumenau</link>
+      <description>Ocorrência foi registrada na madrugada deste sábado, no bairro Progresso.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59038/homem-e-preso-apos-agredir-companheira-e-ameacar-filha-adolescente-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59038/83b869b5b08fe77a3e1ff42adc679d14.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Último desfile da Oktoberfest Blumenau é cancelado por conta da chuva</title>
+      <link>https://ajnoticias.com.br/noticia/59039/ultimo-desfile-da-oktoberfest-blumenau-e-cancelado-por-conta-da-chuva</link>
+      <description>Apesar do cancelamento, a programação da festa no Parque Vila Germânica segue normalmente neste sábado.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59039/ultimo-desfile-da-oktoberfest-blumenau-e-cancelado-por-conta-da-chuva</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59039/2dac22807e424cc4e667506d0d264537.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cão de faro localiza maconha e cocaína em casa no Testo Salto, em Blumenau; duas mulheres são presas</title>
-      <link>https://ajnoticias.com.br/noticia/59029/cao-de-faro-localiza-maconha-e-cocaina-em-casa-no-testo-salto-em-blumenau-duas-mulheres-sao-presas</link>
-      <description>As duas mulheres foram encaminhadas à Central de Plantão Policial, junto com o material apreendido.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59029/cao-de-faro-localiza-maconha-e-cocaina-em-casa-no-testo-salto-em-blumenau-duas-mulheres-sao-presas</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59029/92d303acecdd9ac4ced7e9f4603221e5.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abordagem policial termina com mulher presa por tráfico e receptação em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59032/abordagem-policial-termina-com-mulher-presa-por-trafico-e-receptacao-em-blumenau</link>
-      <description>Aparelho foi reconhecido pelo responsável por uma empresa onde ocorreu um furto recente.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59032/abordagem-policial-termina-com-mulher-presa-por-trafico-e-receptacao-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59032/6be5c4ff1d3ab44eb84dae8cfce5945d.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
