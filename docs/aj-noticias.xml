@@ -7,14 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:43:52 +0000</lastBuildDate>
     <item>
-      <title>Sábado terá sol entre nuvens e chance de chuva com trovoadas no Vale do Itajaí</title>
-      <link>https://ajnoticias.com.br/noticia/59278/sabado-tera-sol-entre-nuvens-e-chance-de-chuva-com-trovoadas-no-vale-do-itajai</link>
-      <description>Temperaturas variam entre 17°C e 27°C, com possibilidade de pancadas isoladas de chuva durante a tarde.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59278/sabado-tera-sol-entre-nuvens-e-chance-de-chuva-com-trovoadas-no-vale-do-itajai</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59278/bcac39865a1032ab93e4ec16fd7abed5.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Domingo será de céu nublado e possibilidade de chuva em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59296/domingo-sera-de-ceu-nublado-e-possibilidade-de-chuva-em-blumenau</link>
+      <description>Dia terá períodos de melhoria e rápidas aberturas de sol, mas não estão descartadas pancadas isoladas com trovoadas durante a tarde.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59296/domingo-sera-de-ceu-nublado-e-possibilidade-de-chuva-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59296/c52791495f60a6bdcaa758df701524e7.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blumenau abre concurso público para a área da educação com vagas para professores</title>
+      <link>https://ajnoticias.com.br/noticia/59297/blumenau-abre-concurso-publico-para-a-area-da-educacao-com-vagas-para-professores</link>
+      <description>Inscrições começam no dia 7 de novembro e seguem até 9 de dezembro.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59297/blumenau-abre-concurso-publico-para-a-area-da-educacao-com-vagas-para-professores</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59297/fdca9814d1d8e00b8db2a82df614cf89.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homem é preso por violência doméstica após ameaçar e agredir ex-companheira em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59299/homem-e-preso-por-violencia-domestica-apos-ameacar-e-agredir-ex-companheira-em-blumenau</link>
+      <description>Ocorrência foi registrada na noite deste sábado (31), na Rua Antônio da Veiga.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59299/homem-e-preso-por-violencia-domestica-apos-ameacar-e-agredir-ex-companheira-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59299/b73908ab302f7518ba002764d4bad7f5.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
