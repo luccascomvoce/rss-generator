@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:25:33 +0000</lastBuildDate>
     <item>
-      <title>Segunda-feira tem sol e calor pela manhã, com risco de temporais isolados entre a tarde e a noite em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59310/segunda-feira-tem-sol-e-calor-pela-manha-com-risco-de-temporais-isolados-entre-a-tarde-e-a-noite-em-blumenau</link>
-      <description>Calor e alta umidade favorecem pancadas de chuva com trovoadas; máxima chega a 30°C</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59310/segunda-feira-tem-sol-e-calor-pela-manha-com-risco-de-temporais-isolados-entre-a-tarde-e-a-noite-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59310/8f87132a6b423f59bb38ff7d2fe65e5c.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Homem é preso após descumprir medida protetiva ao buscar pertences na casa da irmã em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59321/homem-e-preso-apos-descumprir-medida-protetiva-ao-buscar-pertences-na-casa-da-irma-em-blumenau</link>
+      <description>Segundo a PM, homem admitiu que sabia da proibição de aproximação.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59321/homem-e-preso-apos-descumprir-medida-protetiva-ao-buscar-pertences-na-casa-da-irma-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59321/f83e96ab69ff5a70efbf2e4888960974.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Defesa Civil alerta para risco de temporais em SC ao longo desta semana</title>
+      <link>https://ajnoticias.com.br/noticia/59323/defesa-civil-alerta-para-risco-de-temporais-em-sc-ao-longo-desta-semana</link>
+      <description>Quarta-feira concentra as condições mais favoráveis para tempestades, principalmente no Grande Oeste; Vale do Itajaí também pode registrar instabilidades.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59323/defesa-civil-alerta-para-risco-de-temporais-em-sc-ao-longo-desta-semana</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59323/f9508ea62fe737ebb90f7cebeb709f96.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
