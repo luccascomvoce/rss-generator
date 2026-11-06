@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:37:12 +0000</lastBuildDate>
     <item>
-      <title>Vale do Itajaí tem mais de 3,4 mil vagas de emprego pelo Sine; veja as cidades</title>
-      <link>https://ajnoticias.com.br/noticia/59398/vale-do-itajai-tem-mais-de-3-4-mil-vagas-de-emprego-pelo-sine-veja-as-cidades</link>
-      <description>Oportunidades podem ser consultadas no portal Emprega Brasil ou diretamente em uma unidade do Sine da região.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59398/vale-do-itajai-tem-mais-de-3-4-mil-vagas-de-emprego-pelo-sine-veja-as-cidades</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59398/9184359cdc7157a94c90b992211b2c59.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Sexta-feira tem sol entre nuvens e chance de pancadas isoladas com trovoada ao fim do dia em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59414/sexta-feira-tem-sol-entre-nuvens-e-chance-de-pancadas-isoladas-com-trovoada-ao-fim-do-dia-em-blumenau</link>
+      <description>Áreas de baixa pressão favorecem instabilidade à noite; temperatura varia entre 17°C e 27°C</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59414/sexta-feira-tem-sol-entre-nuvens-e-chance-de-pancadas-isoladas-com-trovoada-ao-fim-do-dia-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59414/edb2507f563bac5675fb7a5f9d855bcb.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Incêndio atinge empresa de dois andares no bairro Ponta Aguda, em Blumenau, e bombeiros precisam arrombar porta de vidro para entrar</title>
+      <link>https://ajnoticias.com.br/noticia/59415/incendio-atinge-empresa-de-dois-andares-no-bairro-ponta-aguda-em-blumenau-e-bombeiros-precisam-arrombar-porta-de-vidro-para-entrar</link>
+      <description>Fogo concentrado no piso inferior de prédio comercial de cerca de 500 m² foi combatido com 1.000 litros de água na madrugada desta sexta-feira</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59415/incendio-atinge-empresa-de-dois-andares-no-bairro-ponta-aguda-em-blumenau-e-bombeiros-precisam-arrombar-porta-de-vidro-para-entrar</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59415/3504a0fa41ca755cb6352406ae6745e1.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
