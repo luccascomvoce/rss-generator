@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:22:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:50:21 +0000</lastBuildDate>
     <item>
-      <title>Após madrugada de chuva e trovoadas, sábado ainda terá risco de temporais no Vale do Itajaí</title>
-      <link>https://ajnoticias.com.br/noticia/59438/apos-madrugada-de-chuva-e-trovoadas-sabado-ainda-tera-risco-de-temporais-no-vale-do-itajai</link>
-      <description>Frente fria mantém o tempo instável em Santa Catarina, com possibilidade de chuva intensa e queda isolada de granizo. Tempo deve melhorar a partir do fim da tarde.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59438/apos-madrugada-de-chuva-e-trovoadas-sabado-ainda-tera-risco-de-temporais-no-vale-do-itajai</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59438/091fd39f45e4551a501c31b37571d39c.webp" length="0" type="image/webp"/>
+      <title>Chuva provoca 26 ocorrências e acumulado chega a 86 mm em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59449/chuva-provoca-26-ocorrencias-e-acumulado-chega-a-86-mm-em-blumenau</link>
+      <description>Defesa Civil registrou deslizamentos, alagamentos e quedas de árvores entr</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59449/chuva-provoca-26-ocorrencias-e-acumulado-chega-a-86-mm-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59449/0b2c6e3472fc4fb92e041108287140dd.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Barragem de Ituporanga chega perto de 80% da capacidade; veja situação no Vale do Itajaí</title>
-      <link>https://ajnoticias.com.br/noticia/59440/barragem-de-ituporanga-chega-perto-de-80-da-capacidade-veja-situacao-no-vale-do-itajai</link>
-      <description>Estruturas de Taió e José Boiteux também são monitoradas; confira os níveis dos reservatórios e a situação das comportas.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59440/barragem-de-ituporanga-chega-perto-de-80-da-capacidade-veja-situacao-no-vale-do-itajai</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59440/538392e814a5bf3d3e6c4a123de7d67e.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deslizamento de terra derruba poste e interrompe tratamento de água em alguns bairros de Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59447/deslizamento-derruba-poste-e-interrompe-tratamento-de-agua-em-blumenau</link>
-      <description>ETA 1 teve as atividades paralisadas na manhã deste sábado 7; cinco bairros podem ter o abastecimento afetado.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59447/deslizamento-derruba-poste-e-interrompe-tratamento-de-agua-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59447/feb1db12a637c145b791339db153353c.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 07 Nov 2032 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
