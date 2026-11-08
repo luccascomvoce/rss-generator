@@ -7,14 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:32:37 +0000</lastBuildDate>
     <item>
-      <title>Chuva provoca 26 ocorrências e acumulado chega a 86 mm em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59449/chuva-provoca-26-ocorrencias-e-acumulado-chega-a-86-mm-em-blumenau</link>
-      <description>Defesa Civil registrou deslizamentos, alagamentos e quedas de árvores entr</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59449/chuva-provoca-26-ocorrencias-e-acumulado-chega-a-86-mm-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59449/0b2c6e3472fc4fb92e041108287140dd.webp" length="0" type="image/webp"/>
+      <title>Domingo será de sol entre nuvens e possibilidade de chuva fraca em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59459/domingo-sera-de-sol-entre-nuvens-e-possibilidade-de-chuva-fraca-em-blumenau</link>
+      <description>Manhã terá presença de sol entre nuvens, mas a nebulosidade aumenta a partir da tarde.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59459/domingo-sera-de-sol-entre-nuvens-e-possibilidade-de-chuva-fraca-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59459/b2ac0a5eb965c1f4e1d03896b796c978.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PM prende dois homens em ocorrências relacionadas à violência doméstica em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59462/pm-prende-dois-homens-em-ocorrencias-relacionadas-a-violencia-domestica-em-blumenau</link>
+      <description>Casos foram registrados nos bairros Itoupava Norte e Tribess.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59462/pm-prende-dois-homens-em-ocorrencias-relacionadas-a-violencia-domestica-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59462/8ed4ee014b84e526f921545e6bdbe904.webp" length="0" type="image/webp"/>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ETA 1 deve retomar funcionamento após instalação de nova rede e gerador em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59463/eta-1-deve-retomar-funcionamento-apos-instalacao-de-nova-rede-e-gerador-em-blumenau</link>
+      <description>Estação está totalmente paralisada desde sábado, após um deslizamento derrubar um poste.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59463/eta-1-deve-retomar-funcionamento-apos-instalacao-de-nova-rede-e-gerador-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59463/16bcf368ed7c840c96fb071645d49d08.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Após ultrapassar a cota de enchente, nível do Rio Itajaí-Açu chega a 6,87 metros em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59465/apos-ultrapassar-a-cota-de-enchente-nivel-do-rio-itajai-acu-chega-a-6-87-metros-em-blumenau</link>
+      <description>Rio atingiu o pico de 8,19 metros na noite de sábado (7), quando o município abriu o primeiro abrigo preventivo.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59465/apos-ultrapassar-a-cota-de-enchente-nivel-do-rio-itajai-acu-chega-a-6-87-metros-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59465/109d58b8297d67ea4d86a33db663c3ca.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
