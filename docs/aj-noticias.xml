@@ -7,30 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:15:18 +0000</lastBuildDate>
     <item>
-      <title>Sábado tem nevoeiro pela manhã e predomínio de sol em Blumenau e região</title>
-      <link>https://ajnoticias.com.br/noticia/59634/sabado-tem-nevoeiro-pela-manha-e-predominio-de-sol-em-blumenau-e-regiao</link>
-      <description>Tempo permanece firme no Médio Vale do Itajaí, com temperaturas que podem chegar aos 30°C durante a tarde.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59634/sabado-tem-nevoeiro-pela-manha-e-predominio-de-sol-em-blumenau-e-regiao</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59634/e860c1ad74e0ee43e7d3d1a456f74874.webp" length="0" type="image/webp"/>
+      <title>Domingo terá sol, calor e risco de temporais isolados no Vale do Itajaí</title>
+      <link>https://ajnoticias.com.br/noticia/59644/domingo-tera-sol-calor-e-risco-de-temporais-isolados-no-vale-do-itajai</link>
+      <description>Temperaturas podem chegar aos 31°C, e pancadas de chuva com trovoadas são esperadas entre a tarde e a noite.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59644/domingo-tera-sol-calor-e-risco-de-temporais-isolados-no-vale-do-itajai</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59644/59a3f1e113f3351fde831bbadfe7f9fe.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PM prende dois homens por violência doméstica em menos de duas horas em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59635/pm-prende-dois-homens-por-violencia-domestica-em-menos-de-duas-horas-em-blumenau</link>
-      <description>Casos foram registrados nos bairros Velha Grande e Fortaleza.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59635/pm-prende-dois-homens-por-violencia-domestica-em-menos-de-duas-horas-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59635/bdda861f3208a2e88c38ac654167e105.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calor e temporais isolados marcam previsão para o fim de semana em SC</title>
-      <link>https://ajnoticias.com.br/noticia/59641/calor-e-temporais-isolados-marcam-previsao-para-o-fim-de-semana-em-sc</link>
-      <description>No Vale do Itajaí, o risco de ocorrências é baixo neste sábado e moderado no domingo.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59641/calor-e-temporais-isolados-marcam-previsao-para-o-fim-de-semana-em-sc</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59641/31e9d2943c19b2f4885b883b451a03e5.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
