@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:53:19 +0000</lastBuildDate>
     <item>
-      <title>Seminário interno promove integração entre servidores e apresenta ações do Samae</title>
-      <link>https://www.samae.com.br/noticia/2864/seminario-interno-promove-integracao-entre-servidores-e-apresenta-acoes-do-samae</link>
-      <description>Seminário interno promove integração entre servidores e apresenta ações do Samae</description>
-      <guid isPermaLink="false">https://www.samae.com.br/noticia/2864/seminario-interno-promove-integracao-entre-servidores-e-apresenta-acoes-do-samae</guid>
-      <enclosure url="https://www.samae.com.br/foto.php?id=2119&amp;tam=180&amp;corta=1" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Samae terá serviços em regime de plantão no Dia da Consciência Negra</title>
+      <link>https://www.samae.com.br/noticia/2865/samae-tera-servicos-em-regime-de-plantao-no-dia-da-consciencia-negra</link>
+      <description>Samae terá serviços em regime de plantão no Dia da Consciência Negra</description>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2865/samae-tera-servicos-em-regime-de-plantao-no-dia-da-consciencia-negra</guid>
+      <enclosure url="https://www.samae.com.br/foto.php?id=2120&amp;tam=180&amp;corta=1" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manutenção do Samae impacta trânsito e abastecimento de água de rua no bairro Ponta Aguda, no domingo, dia 22</title>
+      <link>https://www.samae.com.br/noticia/2866/manutencao-do-samae-impacta-transto-e-abastecimento-de-agua-de-rua-no-bairro-ponta-aguda-no-domingo-dia-22</link>
+      <description>Manutenção do Samae impacta trânsito e abastecimento de água de rua no bairro Ponta Aguda, no domingo, dia 22</description>
+      <guid isPermaLink="false">https://www.samae.com.br/noticia/2866/manutencao-do-samae-impacta-transto-e-abastecimento-de-agua-de-rua-no-bairro-ponta-aguda-no-domingo-dia-22</guid>
+      <enclosure url="https://www.samae.com.br/foto.php?id=2121&amp;tam=180&amp;corta=1" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
