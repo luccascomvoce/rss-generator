@@ -7,14 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:05:51 +0000</lastBuildDate>
     <item>
-      <title>Motociclista de 61 anos morre após batida com carro na Rua Doutor Pedro Zimmermann, em Blumenau</title>
-      <link>https://ajnoticias.com.br/noticia/59787/motociclista-de-61-anos-morre-apos-batida-com-carro-na-rua-doutor-pedro-zimmermann-em-blumenau</link>
-      <description>Apesar das tentativas de reanimação, o homem não resistiu.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59787/motociclista-de-61-anos-morre-apos-batida-com-carro-na-rua-doutor-pedro-zimmermann-em-blumenau</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59787/203e470e38d575be4fc79cb1634b8054.webp" length="0" type="image/webp"/>
+      <title>Sábado em Blumenau terá calor de até 37°C e risco de temporais no fim do dia</title>
+      <link>https://ajnoticias.com.br/noticia/59792/sabado-em-blumenau-tera-calor-de-ate-37dc-e-risco-de-temporais-no-fim-do-dia</link>
+      <description>O sol deve predominar durante a manhã, com poucas nuvens e rápida elevação das temperaturas.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59792/sabado-em-blumenau-tera-calor-de-ate-37dc-e-risco-de-temporais-no-fim-do-dia</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59792/3a597955bbfdd306e717297e6849d364.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PM registra duas ocorrências de violência doméstica e prende homens em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59793/dois-homens-sao-presos-por-violencia-domestica-em-blumenau-nesta-sexta-feira</link>
+      <description>Os casos foram registrados nos bairros Badenfurt e Tribess.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59793/dois-homens-sao-presos-por-violencia-domestica-em-blumenau-nesta-sexta-feira</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59793/e81f442d3677caf11a04bae6d0b88bb3.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
