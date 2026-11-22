@@ -7,14 +7,38 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:52:24 +0000</lastBuildDate>
     <item>
-      <title>Obra do Samae bloqueia rua no bairro Ponta Aguda neste domingo e pode interromper fornecimento de água</title>
-      <link>https://ajnoticias.com.br/noticia/59796/obra-do-samae-bloqueia-rua-no-bairro-ponta-aguda-em-blumenau-neste-domingo-e-pode-interromper-fornecimento-de-agua</link>
-      <description>Os trabalhos estão previstos para começar às 7h e devem ser concluídos até o fim da manhã.</description>
-      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59796/obra-do-samae-bloqueia-rua-no-bairro-ponta-aguda-em-blumenau-neste-domingo-e-pode-interromper-fornecimento-de-agua</guid>
-      <enclosure url="https://ajnoticias.com.br/images/noticias/59796/4d080d9f0fa0fc24a0d6a1b0ed383442.webp" length="0" type="image/webp"/>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <title>Blumenau terá domingo de tempo instável e risco de temporais isolados</title>
+      <link>https://ajnoticias.com.br/noticia/59802/blumenau-tera-domingo-de-tempo-instavel-e-risco-de-temporais-isolados</link>
+      <description>A temperatura máxima prevista para Blumenau neste domingo fica entre 25°C e 27°C.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59802/blumenau-tera-domingo-de-tempo-instavel-e-risco-de-temporais-isolados</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59802/ab935a33c46c738eb03e9095ebfc6429.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fogo atinge depósito de alimentos nas dependências do Cerene em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59803/fogo-atinge-deposito-de-alimentos-nas-dependencias-do-cerene-em-blumenau</link>
+      <description>A operação contou com equipes dos postos de Bombeiros do Centro e da região Norte de Blumenau.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59803/fogo-atinge-deposito-de-alimentos-nas-dependencias-do-cerene-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59803/950e6a6cce26e602ae79615260640270.webp" length="0" type="image/webp"/>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fiscalização resgata 28 cães de canil irregular e responsável é preso em Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59806/fiscalizacao-resgata-28-caes-de-canil-irregular-e-responsavel-e-preso-em-blumenau</link>
+      <description>Animais estavam em condições inadequadas de alojamento e higiene.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59806/fiscalizacao-resgata-28-caes-de-canil-irregular-e-responsavel-e-preso-em-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59806/6b0ea90349d1cde9f26954f8f8252b68.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vídeo: Câmeras de segurança flagram assalto em cemitério no Centro de Blumenau</title>
+      <link>https://ajnoticias.com.br/noticia/59807/video-cameras-de-seguranca-flagram-assalto-em-cemiterio-no-centro-de-blumenau</link>
+      <description>Segundo a Polícia Militar, o homem ameaçou a vítima ao mostrar uma arma na cintura e levou o celular.</description>
+      <guid isPermaLink="false">https://ajnoticias.com.br/noticia/59807/video-cameras-de-seguranca-flagram-assalto-em-cemiterio-no-centro-de-blumenau</guid>
+      <enclosure url="https://ajnoticias.com.br/images/noticias/59807/ae4bb056c20faa22ab9e16add093a788.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
